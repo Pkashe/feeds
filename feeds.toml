@@ -1,11 +1,11 @@
 [default]
-timeout = 60
-waitUntil = "networkidle"
+timeout = 120
+waitUntil = "domcontentloaded"
+waitForSelector = "pre"
 
 [Archive]
 title = "New Album Releases - Archive"
 url = "https://r.jina.ai/http://newalbumreleases.net/category/cat/"
-entrySelector = "body"
-titleSelector = "title"
-linkSelector = "a"
-contentSelector = "body"
+entrySelector = "pre"
+titleSelector = "pre"
+contentSelector = "pre"
