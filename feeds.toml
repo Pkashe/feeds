@@ -1,12 +1,11 @@
 [default]
 timeout = 60
 waitUntil = "networkidle"
-waitForSelector = ".single"
 
 [Archive]
 title = "New Album Releases - Archive"
-url = "https://newalbumreleases.net/category/cat/"
-entrySelector = ".single"
-titleSelector = ".title h2"
-linkSelector = ".title h2 a"
-contentSelector = ".entry"
+url = "https://r.jina.ai/http://newalbumreleases.net/category/cat/"
+entrySelector = "body"
+titleSelector = "title"
+linkSelector = "a"
+contentSelector = "body"
