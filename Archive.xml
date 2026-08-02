@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 02 Aug 2026 10:56:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 11:41:05 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Nectar Woode – Naturally (2026)</title>
+      <link>https://newalbumreleases.net/236891/nectar-woode-naturally-2026/</link>
+      <guid isPermaLink="false">236891</guid>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Nectar Woode – Naturally (2026)]]></description>
+    </item>
     <item>
       <title>Ryan Oakes – Scary Stories After Dark (2026)</title>
       <link>https://newalbumreleases.net/236890/ryan-oakes-scary-stories-after-dark-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">236834</guid>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Domi & Jd Beck – Who Asked (2026)]]></description>
-    </item>
-    <item>
-      <title>Lucia &amp; The Best Boys – Picking Petals (2026)</title>
-      <link>https://newalbumreleases.net/236833/lucia-the-best-boys-picking-petals-2026/</link>
-      <guid isPermaLink="false">236833</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Lucia & The Best Boys – Picking Petals (2026)]]></description>
     </item>
   </channel>
 </rss>
