@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 08 Aug 2026 21:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 23:03:29 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -41,6 +41,20 @@
       <guid isPermaLink="false">237118</guid>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Gemini – Knight (2026)]]></description>
+    </item>
+    <item>
+      <title>Casey Barnes – Made For This (2026)</title>
+      <link>https://newalbumreleases.net/237096/casey-barnes-made-for-this-2026/</link>
+      <guid isPermaLink="false">237096</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Casey Barnes – Made For This (2026)]]></description>
+    </item>
+    <item>
+      <title>Silverada – Living Proof (2026)</title>
+      <link>https://newalbumreleases.net/237095/silverada-living-proof-2026/</link>
+      <guid isPermaLink="false">237095</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Silverada – Living Proof (2026)]]></description>
     </item>
     <item>
       <title>Caitlyn Shadbolt – Life Is For Living (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">237058</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Lucy Woodward – I Need To Roam (2026)]]></description>
-    </item>
-    <item>
-      <title>Rowena Wise – Bad Things Feel Good (2026)</title>
-      <link>https://newalbumreleases.net/237052/rowena-wise-bad-things-feel-good-2026/</link>
-      <guid isPermaLink="false">237052</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Rowena Wise – Bad Things Feel Good (2026)]]></description>
-    </item>
-    <item>
-      <title>Fam – Pleasure Of Torture (2026)</title>
-      <link>https://newalbumreleases.net/237051/fam-pleasure-of-torture-2026/</link>
-      <guid isPermaLink="false">237051</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Fam – Pleasure Of Torture (2026)]]></description>
     </item>
   </channel>
 </rss>
