@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 08 Aug 2026 07:36:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 09:58:48 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -78,11 +78,18 @@
       <description><![CDATA[New Album Releases archive post: Thee Oh Sees – Live In Los Angeles (2026)]]></description>
     </item>
     <item>
-      <title>Primal Scream – Vanishing Point [Expanded Edition] (2026)</title>
-      <link>https://newalbumreleases.net/237080/primal-scream-vanishing-point-expanded-edition-2026/</link>
-      <guid isPermaLink="false">237080</guid>
+      <title>Soothsayer – Chapter IV (2026)</title>
+      <link>https://newalbumreleases.net/237076/soothsayer-chapter-iv-2026/</link>
+      <guid isPermaLink="false">237076</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Primal Scream – Vanishing Point [Expanded Edition] (2026)]]></description>
+      <description><![CDATA[New Album Releases archive post: Soothsayer – Chapter IV (2026)]]></description>
+    </item>
+    <item>
+      <title>Mel Parsons – Castle Hill (2026)</title>
+      <link>https://newalbumreleases.net/237075/mel-parsons-castle-hill-2026/</link>
+      <guid isPermaLink="false">237075</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Mel Parsons – Castle Hill (2026)]]></description>
     </item>
     <item>
       <title>The Family – Delusions Of Grandeur (2026)</title>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237023</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Wormwood – A (2026)]]></description>
-    </item>
-    <item>
-      <title>10,000 Years – Esox Lucifer (2026)</title>
-      <link>https://newalbumreleases.net/237021/10000-years-esox-lucifer-2026/</link>
-      <guid isPermaLink="false">237021</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: 10,000 Years – Esox Lucifer (2026)]]></description>
     </item>
   </channel>
 </rss>
