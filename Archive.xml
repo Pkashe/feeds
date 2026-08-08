@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 08 Aug 2026 19:58:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 21:05:01 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -41,6 +41,13 @@
       <guid isPermaLink="false">237118</guid>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Gemini – Knight (2026)]]></description>
+    </item>
+    <item>
+      <title>Caitlyn Shadbolt – Life Is For Living (2026)</title>
+      <link>https://newalbumreleases.net/237094/caitlyn-shadbolt-life-is-for-living-2026/</link>
+      <guid isPermaLink="false">237094</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Caitlyn Shadbolt – Life Is For Living (2026)]]></description>
     </item>
     <item>
       <title>The Grascals – Not That Gone (2026)</title>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237051</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Fam – Pleasure Of Torture (2026)]]></description>
-    </item>
-    <item>
-      <title>The Beautiful Monument – Euphoric Thriller (2026)</title>
-      <link>https://newalbumreleases.net/237050/the-beautiful-monument-euphoric-thriller-2026/</link>
-      <guid isPermaLink="false">237050</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: The Beautiful Monument – Euphoric Thriller (2026)]]></description>
     </item>
   </channel>
 </rss>
