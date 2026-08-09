@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 09 Aug 2026 16:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 18:04:12 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -13,6 +13,20 @@
       <guid isPermaLink="false">237143</guid>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Betamaxx – Chilling In America (2026)]]></description>
+    </item>
+    <item>
+      <title>Walter Beasley – 65 Bounce (2026)</title>
+      <link>https://newalbumreleases.net/237124/walter-beasley-65-bounce-2026/</link>
+      <guid isPermaLink="false">237124</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Walter Beasley – 65 Bounce (2026)]]></description>
+    </item>
+    <item>
+      <title>Down To The Bone – This Way Forward (2026)</title>
+      <link>https://newalbumreleases.net/237122/down-to-the-bone-this-way-forward-2026/</link>
+      <guid isPermaLink="false">237122</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Down To The Bone – This Way Forward (2026)]]></description>
     </item>
     <item>
       <title>Red Shahan – Hard Land (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">237091</guid>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Sheep, Dog & Wolf – Ceiling Waves (2026)]]></description>
-    </item>
-    <item>
-      <title>Dinner Party – Whatchu Bringing (2026)</title>
-      <link>https://newalbumreleases.net/237090/dinner-party-whatchu-bringing-2026/</link>
-      <guid isPermaLink="false">237090</guid>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Dinner Party – Whatchu Bringing (2026)]]></description>
-    </item>
-    <item>
-      <title>The Roseline – 86 Gumption (2026)</title>
-      <link>https://newalbumreleases.net/237089/the-roseline-86-gumption-2026/</link>
-      <guid isPermaLink="false">237089</guid>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: The Roseline – 86 Gumption (2026)]]></description>
     </item>
   </channel>
 </rss>
