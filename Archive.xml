@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 10 Aug 2026 20:10:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 23:05:51 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -13,6 +13,20 @@
       <guid isPermaLink="false">237163</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Kun – Kun (2026)]]></description>
+    </item>
+    <item>
+      <title>Pocket Lint – Wunderkammer (2026)</title>
+      <link>https://newalbumreleases.net/237155/pocket-lint-wunderkammer-2026/</link>
+      <guid isPermaLink="false">237155</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Pocket Lint – Wunderkammer (2026)]]></description>
+    </item>
+    <item>
+      <title>Iconic – II (2026)</title>
+      <link>https://newalbumreleases.net/237154/iconic-ii-2026/</link>
+      <guid isPermaLink="false">237154</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Iconic – II (2026)]]></description>
     </item>
     <item>
       <title>Wooden Overcoat – Hello Sunbeam (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">237125</guid>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Jesse Welles – Under The Powerlines III [January 2025-June 2025] (2026)]]></description>
-    </item>
-    <item>
-      <title>Walter Beasley – 65 Bounce (2026)</title>
-      <link>https://newalbumreleases.net/237124/walter-beasley-65-bounce-2026/</link>
-      <guid isPermaLink="false">237124</guid>
-      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Walter Beasley – 65 Bounce (2026)]]></description>
-    </item>
-    <item>
-      <title>Down To The Bone – This Way Forward (2026)</title>
-      <link>https://newalbumreleases.net/237122/down-to-the-bone-this-way-forward-2026/</link>
-      <guid isPermaLink="false">237122</guid>
-      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Down To The Bone – This Way Forward (2026)]]></description>
     </item>
   </channel>
 </rss>
