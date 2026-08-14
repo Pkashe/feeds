@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Fri, 14 Aug 2026 20:17:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:52:38 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -48,6 +48,20 @@
       <guid isPermaLink="false">237337</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Ween – Golden Wastes (2026)]]></description>
+    </item>
+    <item>
+      <title>Kris Barras Band – Monsters We Made (2026)</title>
+      <link>https://newalbumreleases.net/237312/kris-barras-band-monsters-we-made-2026/</link>
+      <guid isPermaLink="false">237312</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Kris Barras Band – Monsters We Made (2026)]]></description>
+    </item>
+    <item>
+      <title>Warforged – He Grove Almanac (2026)</title>
+      <link>https://newalbumreleases.net/237311/warforged-he-grove-almanac-2026/</link>
+      <guid isPermaLink="false">237311</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Warforged – He Grove Almanac (2026)]]></description>
     </item>
     <item>
       <title>Nestor – Live At Gothenburg Film Studios (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">237252</guid>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Alexander Noice – Perpetually And Forever (2026)]]></description>
-    </item>
-    <item>
-      <title>Trever M. Keith – We Drank From A Poisoned Well (2026)</title>
-      <link>https://newalbumreleases.net/237251/trever-m-keith-we-drank-from-a-poisoned-well-2026/</link>
-      <guid isPermaLink="false">237251</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Trever M. Keith – We Drank From A Poisoned Well (2026)]]></description>
-    </item>
-    <item>
-      <title>Martin Bisi – Dancing On The Power Lines (2026)</title>
-      <link>https://newalbumreleases.net/237250/martin-bisi-dancing-on-the-power-lines-2026/</link>
-      <guid isPermaLink="false">237250</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Martin Bisi – Dancing On The Power Lines (2026)]]></description>
     </item>
   </channel>
 </rss>
