@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 15 Aug 2026 08:59:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 09:52:49 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Ada Lea – The End Is A Wave (2026)</title>
+      <link>https://newalbumreleases.net/237344/ada-lea-the-end-is-a-wave-2026/</link>
+      <guid isPermaLink="false">237344</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Ada Lea – The End Is A Wave (2026)]]></description>
+    </item>
     <item>
       <title>Fridayy – Tension (2026)</title>
       <link>https://newalbumreleases.net/237343/fridayy-tension-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237260</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: The Velvet Club – Are You Falling In Love (2026)]]></description>
-    </item>
-    <item>
-      <title>Apogean – Waste Where Life Begins (2026)</title>
-      <link>https://newalbumreleases.net/237258/apogean-waste-where-life-begins-2026/</link>
-      <guid isPermaLink="false">237258</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Apogean – Waste Where Life Begins (2026)]]></description>
     </item>
   </channel>
 </rss>
