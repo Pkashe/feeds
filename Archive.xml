@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 15 Aug 2026 09:52:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 10:50:06 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Kelly Finnigan – B-Sides, Singles And Forgotten Gems (2026)</title>
+      <link>https://newalbumreleases.net/237345/kelly-finnigan-b-sides-singles-and-forgotten-gems-2026/</link>
+      <guid isPermaLink="false">237345</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Kelly Finnigan – B-Sides, Singles And Forgotten Gems (2026)]]></description>
+    </item>
     <item>
       <title>Ada Lea – The End Is A Wave (2026)</title>
       <link>https://newalbumreleases.net/237344/ada-lea-the-end-is-a-wave-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237261</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Bruce Soord – Ghosts In The Park (2026)]]></description>
-    </item>
-    <item>
-      <title>The Velvet Club – Are You Falling In Love (2026)</title>
-      <link>https://newalbumreleases.net/237260/the-velvet-club-are-you-falling-in-love-2026/</link>
-      <guid isPermaLink="false">237260</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: The Velvet Club – Are You Falling In Love (2026)]]></description>
     </item>
   </channel>
 </rss>
