@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 15 Aug 2026 07:18:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:59:45 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Fridayy – Tension (2026)</title>
+      <link>https://newalbumreleases.net/237343/fridayy-tension-2026/</link>
+      <guid isPermaLink="false">237343</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Fridayy – Tension (2026)]]></description>
+    </item>
     <item>
       <title>Hovvdy – Big World (2026)</title>
       <link>https://newalbumreleases.net/237342/hovvdy-big-world-2026/</link>
@@ -48,6 +55,13 @@
       <guid isPermaLink="false">237337</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Ween – Golden Wastes (2026)]]></description>
+    </item>
+    <item>
+      <title>Brian Kelley – Coral Beats (2026)</title>
+      <link>https://newalbumreleases.net/237336/brian-kelley-coral-beats-2026/</link>
+      <guid isPermaLink="false">237336</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Brian Kelley – Coral Beats (2026)]]></description>
     </item>
     <item>
       <title>Earth Ball – Actual Earth Music Volume 3 And 4 (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">237258</guid>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Apogean – Waste Where Life Begins (2026)]]></description>
-    </item>
-    <item>
-      <title>They Must Be Russians – And Other Groundless Accusations (2026)</title>
-      <link>https://newalbumreleases.net/237257/they-must-be-russians-and-other-groundless-accusations-2026/</link>
-      <guid isPermaLink="false">237257</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: They Must Be Russians – And Other Groundless Accusations (2026)]]></description>
-    </item>
-    <item>
-      <title>Hackedepicciotto – Lichtung (2026)</title>
-      <link>https://newalbumreleases.net/237256/hackedepicciotto-lichtung-2026/</link>
-      <guid isPermaLink="false">237256</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Hackedepicciotto – Lichtung (2026)]]></description>
     </item>
   </channel>
 </rss>
