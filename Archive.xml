@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 15 Aug 2026 14:51:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 15:42:15 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Sundayclub – Sundayclub (2026)</title>
+      <link>https://newalbumreleases.net/237350/sundayclub-sundayclub-2026/</link>
+      <guid isPermaLink="false">237350</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Sundayclub – Sundayclub (2026)]]></description>
+    </item>
     <item>
       <title>Elizabeth Cook – Great Television (2026)</title>
       <link>https://newalbumreleases.net/237349/elizabeth-cook-great-television-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237304</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Living Weapon – Death In The Family (2026)]]></description>
-    </item>
-    <item>
-      <title>Dylan Wright – Crossroads (2026)</title>
-      <link>https://newalbumreleases.net/237265/dylan-wright-crossroads-2026/</link>
-      <guid isPermaLink="false">237265</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Dylan Wright – Crossroads (2026)]]></description>
     </item>
   </channel>
 </rss>
