@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 15 Aug 2026 03:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 05:00:56 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -48,6 +48,20 @@
       <guid isPermaLink="false">237337</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Ween – Golden Wastes (2026)]]></description>
+    </item>
+    <item>
+      <title>Judah And The Lion – I Am A Prism (2026)</title>
+      <link>https://newalbumreleases.net/237333/judah-and-the-lion-i-am-a-prism-2026/</link>
+      <guid isPermaLink="false">237333</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Judah And The Lion – I Am A Prism (2026)]]></description>
+    </item>
+    <item>
+      <title>James Ellis Ford – Lost In Another World (2026)</title>
+      <link>https://newalbumreleases.net/237328/james-ellis-ford-lost-in-another-world-2026/</link>
+      <guid isPermaLink="false">237328</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: James Ellis Ford – Lost In Another World (2026)]]></description>
     </item>
     <item>
       <title>Osiris – Within A Dream (2026)</title>
@@ -169,13 +183,6 @@
       <description><![CDATA[New Album Releases archive post: The Velvet Club – Are You Falling In Love (2026)]]></description>
     </item>
     <item>
-      <title>Josh Turner – Your Man [20th Anniversary Deluxe Edition] (2026)</title>
-      <link>https://newalbumreleases.net/237332/josh-turner-your-man-20th-anniversary-deluxe-edition-2026/</link>
-      <guid isPermaLink="false">237332</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Josh Turner – Your Man [20th Anniversary Deluxe Edition] (2026)]]></description>
-    </item>
-    <item>
       <title>Oil – Feed Your Brains Remastered (2026)</title>
       <link>https://newalbumreleases.net/237259/oil-feed-your-brains-remastered-2026/</link>
       <guid isPermaLink="false">237259</guid>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237255</guid>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Susan Wong – Just A Little Bossa Nova Remastered (2026)]]></description>
-    </item>
-    <item>
-      <title>Andrew Farriss – The Prospector (2026)</title>
-      <link>https://newalbumreleases.net/237254/andrew-farriss-the-prospector-2026/</link>
-      <guid isPermaLink="false">237254</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Andrew Farriss – The Prospector (2026)]]></description>
     </item>
   </channel>
 </rss>
