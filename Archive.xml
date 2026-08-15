@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 15 Aug 2026 17:42:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 19:00:54 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Bella Kay – My Reckless Abandon (2026)</title>
+      <link>https://newalbumreleases.net/237377/bella-kay-my-reckless-abandon-2026/</link>
+      <guid isPermaLink="false">237377</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Bella Kay – My Reckless Abandon (2026)]]></description>
+    </item>
     <item>
       <title>Bruce Springsteen – TD Garden, Boston, MA, 05.24.26 (2026)</title>
       <link>https://newalbumreleases.net/237376/bruce-springsteen-td-garden-boston-ma-05-24-26-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237308</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Nestor – Live At Gothenburg Film Studios (2026)]]></description>
-    </item>
-    <item>
-      <title>Coyote Man – Prosthetic Memories (2026)</title>
-      <link>https://newalbumreleases.net/237307/coyote-man-prosthetic-memories-2026/</link>
-      <guid isPermaLink="false">237307</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Coyote Man – Prosthetic Memories (2026)]]></description>
     </item>
   </channel>
 </rss>
