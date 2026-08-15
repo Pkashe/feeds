@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 15 Aug 2026 13:38:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 14:51:32 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Elizabeth Cook – Great Television (2026)</title>
+      <link>https://newalbumreleases.net/237349/elizabeth-cook-great-television-2026/</link>
+      <guid isPermaLink="false">237349</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Elizabeth Cook – Great Television (2026)]]></description>
+    </item>
     <item>
       <title>Lindsay Lou – Bluegrass Women (2026)</title>
       <link>https://newalbumreleases.net/237348/lindsay-lou-bluegrass-women-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237265</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Dylan Wright – Crossroads (2026)]]></description>
-    </item>
-    <item>
-      <title>Rageflower – Twinstar (2026)</title>
-      <link>https://newalbumreleases.net/237264/rageflower-twinstar-2026/</link>
-      <guid isPermaLink="false">237264</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Rageflower – Twinstar (2026)]]></description>
     </item>
   </channel>
 </rss>
