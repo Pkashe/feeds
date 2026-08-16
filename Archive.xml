@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 16 Aug 2026 09:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 10:51:17 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Just Jayne – Jayne (2026)</title>
+      <link>https://newalbumreleases.net/237373/just-jayne-jayne-2026/</link>
+      <guid isPermaLink="false">237373</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Just Jayne – Jayne (2026)]]></description>
+    </item>
     <item>
       <title>Brothertiger – Fundamentals, Vol. VI (2026)</title>
       <link>https://newalbumreleases.net/237379/brothertiger-fundamentals-vol-vi-2026/</link>
@@ -34,6 +41,13 @@
       <guid isPermaLink="false">237376</guid>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Bruce Springsteen – TD Garden, Boston, MA, 05.24.26 (2026)]]></description>
+    </item>
+    <item>
+      <title>Caelestia – Revelations In Black (2026)</title>
+      <link>https://newalbumreleases.net/237372/caelestia-revelations-in-black-2026/</link>
+      <guid isPermaLink="false">237372</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Caelestia – Revelations In Black (2026)]]></description>
     </item>
     <item>
       <title>Jenner Fox – Beauty In Strange Colors (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">237334</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: 2K88, Lauren Duffus, Rainy Miller, Bianca Scout – Everything Always Changes, For We’re Truly Here (2026)]]></description>
-    </item>
-    <item>
-      <title>Judah And The Lion – I Am A Prism (2026)</title>
-      <link>https://newalbumreleases.net/237333/judah-and-the-lion-i-am-a-prism-2026/</link>
-      <guid isPermaLink="false">237333</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Judah And The Lion – I Am A Prism (2026)]]></description>
-    </item>
-    <item>
-      <title>James Ellis Ford – Lost In Another World (2026)</title>
-      <link>https://newalbumreleases.net/237328/james-ellis-ford-lost-in-another-world-2026/</link>
-      <guid isPermaLink="false">237328</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: James Ellis Ford – Lost In Another World (2026)]]></description>
     </item>
   </channel>
 </rss>
