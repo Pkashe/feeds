@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 16 Aug 2026 20:49:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 21:40:03 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Mouth Ulcers – Silent Pictures (2026)</title>
+      <link>https://newalbumreleases.net/237384/mouth-ulcers-silent-pictures-2026/</link>
+      <guid isPermaLink="false">237384</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Mouth Ulcers – Silent Pictures (2026)]]></description>
+    </item>
     <item>
       <title>Fiver – Fiver Trois Presents Cleaning House (2026)</title>
       <link>https://newalbumreleases.net/237383/fiver-fiver-trois-presents-cleaning-house-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237351</guid>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Leroy Clampitt – Get Happy (2026)]]></description>
-    </item>
-    <item>
-      <title>Sundayclub – Sundayclub (2026)</title>
-      <link>https://newalbumreleases.net/237350/sundayclub-sundayclub-2026/</link>
-      <guid isPermaLink="false">237350</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Sundayclub – Sundayclub (2026)]]></description>
     </item>
   </channel>
 </rss>
