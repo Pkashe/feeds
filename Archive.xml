@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 16 Aug 2026 17:39:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 18:59:55 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Eazykayy – The Harder It Gets (2026)</title>
+      <link>https://newalbumreleases.net/237381/eazykayy-the-harder-it-gets-2026/</link>
+      <guid isPermaLink="false">237381</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Eazykayy – The Harder It Gets (2026)]]></description>
+    </item>
     <item>
       <title>Nine Pound Hammer – Too Outlaw For Outlaw Country (2026)</title>
       <link>https://newalbumreleases.net/237380/nine-pound-hammer-too-outlaw-for-outlaw-country-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237348</guid>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Lindsay Lou – Bluegrass Women (2026)]]></description>
-    </item>
-    <item>
-      <title>Mark Medlock – Back Into The Sun (2026)</title>
-      <link>https://newalbumreleases.net/237347/mark-medlock-back-into-the-sun-2026/</link>
-      <guid isPermaLink="false">237347</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Mark Medlock – Back Into The Sun (2026)]]></description>
     </item>
   </channel>
 </rss>
