@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 16 Aug 2026 13:43:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 14:53:03 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">237373</guid>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Just Jayne – Jayne (2026)]]></description>
+    </item>
+    <item>
+      <title>Bronwyn Keith-Hynes – Rattlin’ Bones (2026)</title>
+      <link>https://newalbumreleases.net/237353/bronwyn-keith-hynes-rattlin-bones-2026/</link>
+      <guid isPermaLink="false">237353</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Bronwyn Keith-Hynes – Rattlin’ Bones (2026)]]></description>
     </item>
     <item>
       <title>Warner E. Hodges – Absolutely (2026)</title>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237344</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Ada Lea – The End Is A Wave (2026)]]></description>
-    </item>
-    <item>
-      <title>Fridayy – Tension (2026)</title>
-      <link>https://newalbumreleases.net/237343/fridayy-tension-2026/</link>
-      <guid isPermaLink="false">237343</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Fridayy – Tension (2026)]]></description>
     </item>
   </channel>
 </rss>
