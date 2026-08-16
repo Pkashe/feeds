@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 16 Aug 2026 14:53:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 15:44:38 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">237373</guid>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Just Jayne – Jayne (2026)]]></description>
+    </item>
+    <item>
+      <title>Reb Fountain – Water For Gasoline (2026)</title>
+      <link>https://newalbumreleases.net/237354/reb-fountain-water-for-gasoline-2026/</link>
+      <guid isPermaLink="false">237354</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Reb Fountain – Water For Gasoline (2026)]]></description>
     </item>
     <item>
       <title>Bronwyn Keith-Hynes – Rattlin’ Bones (2026)</title>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237345</guid>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Kelly Finnigan – B-Sides, Singles And Forgotten Gems (2026)]]></description>
-    </item>
-    <item>
-      <title>Ada Lea – The End Is A Wave (2026)</title>
-      <link>https://newalbumreleases.net/237344/ada-lea-the-end-is-a-wave-2026/</link>
-      <guid isPermaLink="false">237344</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Ada Lea – The End Is A Wave (2026)]]></description>
     </item>
   </channel>
 </rss>
