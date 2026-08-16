@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 16 Aug 2026 03:15:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 05:05:23 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -34,6 +34,20 @@
       <guid isPermaLink="false">237376</guid>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Bruce Springsteen – TD Garden, Boston, MA, 05.24.26 (2026)]]></description>
+    </item>
+    <item>
+      <title>Jim Lauderdale – The Birds Know (2026)</title>
+      <link>https://newalbumreleases.net/237363/jim-lauderdale-the-birds-know-2026/</link>
+      <guid isPermaLink="false">237363</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Jim Lauderdale – The Birds Know (2026)]]></description>
+    </item>
+    <item>
+      <title>Hayla – Dark (2026)</title>
+      <link>https://newalbumreleases.net/237362/hayla-dark-2026/</link>
+      <guid isPermaLink="false">237362</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Hayla – Dark (2026)]]></description>
     </item>
     <item>
       <title>Bizzy Crook – Underdogs Win Eventually (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">237314</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Dead Tired – Hornets Of Fall (2026)]]></description>
-    </item>
-    <item>
-      <title>Soulgrind – Ad Pulchram Mortem (2026)</title>
-      <link>https://newalbumreleases.net/237313/soulgrind-ad-pulchram-mortem-2026/</link>
-      <guid isPermaLink="false">237313</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Soulgrind – Ad Pulchram Mortem (2026)]]></description>
-    </item>
-    <item>
-      <title>Kris Barras Band – Monsters We Made (2026)</title>
-      <link>https://newalbumreleases.net/237312/kris-barras-band-monsters-we-made-2026/</link>
-      <guid isPermaLink="false">237312</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Kris Barras Band – Monsters We Made (2026)]]></description>
     </item>
   </channel>
 </rss>
