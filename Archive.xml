@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 16 Aug 2026 18:59:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 19:41:07 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Papaya Noon – Through The Moods (2026)</title>
+      <link>https://newalbumreleases.net/237382/papaya-noon-through-the-moods-2026/</link>
+      <guid isPermaLink="false">237382</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Papaya Noon – Through The Moods (2026)]]></description>
+    </item>
     <item>
       <title>Eazykayy – The Harder It Gets (2026)</title>
       <link>https://newalbumreleases.net/237381/eazykayy-the-harder-it-gets-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237349</guid>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Elizabeth Cook – Great Television (2026)]]></description>
-    </item>
-    <item>
-      <title>Lindsay Lou – Bluegrass Women (2026)</title>
-      <link>https://newalbumreleases.net/237348/lindsay-lou-bluegrass-women-2026/</link>
-      <guid isPermaLink="false">237348</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Lindsay Lou – Bluegrass Women (2026)]]></description>
     </item>
   </channel>
 </rss>
