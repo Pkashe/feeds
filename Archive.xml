@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 17 Aug 2026 22:53:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 23:48:40 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Violet Cowboy – Ramraid At The Wiggly Worm (2026)</title>
+      <link>https://newalbumreleases.net/237415/violet-cowboy-ramraid-at-the-wiggly-worm-2026/</link>
+      <guid isPermaLink="false">237415</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Violet Cowboy – Ramraid At The Wiggly Worm (2026)]]></description>
+    </item>
     <item>
       <title>Sailing Stones – Slow Magic (2026)</title>
       <link>https://newalbumreleases.net/237414/sailing-stones-slow-magic-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237385</guid>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Becky G – Baraja Bendita (2026)]]></description>
-    </item>
-    <item>
-      <title>Mouth Ulcers – Silent Pictures (2026)</title>
-      <link>https://newalbumreleases.net/237384/mouth-ulcers-silent-pictures-2026/</link>
-      <guid isPermaLink="false">237384</guid>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Mouth Ulcers – Silent Pictures (2026)]]></description>
     </item>
   </channel>
 </rss>
