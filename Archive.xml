@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 17 Aug 2026 14:57:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 15:53:57 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>The Who – Who’s Best Kept Secrets (2026)</title>
+      <link>https://newalbumreleases.net/237404/the-who-whos-best-kept-secrets-2026/</link>
+      <guid isPermaLink="false">237404</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: The Who – Who’s Best Kept Secrets (2026)]]></description>
+    </item>
     <item>
       <title>Nick Helm – Down ‘N’ Dirty Volume 1 (2026)</title>
       <link>https://newalbumreleases.net/237402/nick-helm-down-n-dirty-volume-1-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237353</guid>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Bronwyn Keith-Hynes – Rattlin’ Bones (2026)]]></description>
-    </item>
-    <item>
-      <title>Warner E. Hodges – Absolutely (2026)</title>
-      <link>https://newalbumreleases.net/237352/warner-e-hodges-absolutely-2026/</link>
-      <guid isPermaLink="false">237352</guid>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Warner E. Hodges – Absolutely (2026)]]></description>
     </item>
   </channel>
 </rss>
