@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 17 Aug 2026 19:54:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 20:58:58 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>K, Le Maestro – 2 Live! (2026)</title>
+      <link>https://newalbumreleases.net/237412/k-le-maestro-2-live-2026/</link>
+      <guid isPermaLink="false">237412</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: K, Le Maestro – 2 Live! (2026)]]></description>
+    </item>
     <item>
       <title>John Mellencamp – On The Road With John Mellencamp (2026)</title>
       <link>https://newalbumreleases.net/237408/john-mellencamp-on-the-road-with-john-mellencamp-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237382</guid>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Papaya Noon – Through The Moods (2026)]]></description>
-    </item>
-    <item>
-      <title>Eazykayy – The Harder It Gets (2026)</title>
-      <link>https://newalbumreleases.net/237381/eazykayy-the-harder-it-gets-2026/</link>
-      <guid isPermaLink="false">237381</guid>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Eazykayy – The Harder It Gets (2026)]]></description>
     </item>
   </channel>
 </rss>
