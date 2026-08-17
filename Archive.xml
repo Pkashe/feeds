@@ -4,9 +4,23 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 17 Aug 2026 10:17:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 11:53:30 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Davy Knowles – Live, Vol. 1 (2026)</title>
+      <link>https://newalbumreleases.net/237399/davy-knowles-live-vol-1-2026/</link>
+      <guid isPermaLink="false">237399</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Davy Knowles – Live, Vol. 1 (2026)]]></description>
+    </item>
+    <item>
+      <title>Riccardo Tesi – Camerock (2026)</title>
+      <link>https://newalbumreleases.net/237398/riccardo-tesi-camerock-2026/</link>
+      <guid isPermaLink="false">237398</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Riccardo Tesi – Camerock (2026)]]></description>
+    </item>
     <item>
       <title>Genevieve Stokes – Hiding Places (2026)</title>
       <link>https://newalbumreleases.net/237411/genevieve-stokes-hiding-places-2026/</link>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">237352</guid>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Warner E. Hodges – Absolutely (2026)]]></description>
-    </item>
-    <item>
-      <title>Caelestia – Revelations In Black (2026)</title>
-      <link>https://newalbumreleases.net/237372/caelestia-revelations-in-black-2026/</link>
-      <guid isPermaLink="false">237372</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Caelestia – Revelations In Black (2026)]]></description>
-    </item>
-    <item>
-      <title>Jenner Fox – Beauty In Strange Colors (2026)</title>
-      <link>https://newalbumreleases.net/237371/jenner-fox-beauty-in-strange-colors-2026/</link>
-      <guid isPermaLink="false">237371</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Jenner Fox – Beauty In Strange Colors (2026)]]></description>
     </item>
   </channel>
 </rss>
