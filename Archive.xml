@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Tue, 18 Aug 2026 17:58:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 19:18:27 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Joey Alexander – Celestial Keeper (2026)</title>
+      <link>https://newalbumreleases.net/237435/joey-alexander-celestial-keeper-2026/</link>
+      <guid isPermaLink="false">237435</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Joey Alexander – Celestial Keeper (2026)]]></description>
+    </item>
     <item>
       <title>Alan Hawkshaw – KPM Legends Alan Hawkshaw (2026)</title>
       <link>https://newalbumreleases.net/237434/alan-hawkshaw-kpm-legends-alan-hawkshaw-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237401</guid>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Fathers – Fathers (2026)]]></description>
-    </item>
-    <item>
-      <title>Onesie – Way Thousand Bump To The Sky (2026)</title>
-      <link>https://newalbumreleases.net/237400/onesie-way-thousand-bump-to-the-sky-2026/</link>
-      <guid isPermaLink="false">237400</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Onesie – Way Thousand Bump To The Sky (2026)]]></description>
     </item>
   </channel>
 </rss>
