@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Tue, 18 Aug 2026 22:54:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 23:49:03 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Cameron James – On Time! (2026)</title>
+      <link>https://newalbumreleases.net/237440/cameron-james-on-time-2026/</link>
+      <guid isPermaLink="false">237440</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Cameron James – On Time! (2026)]]></description>
+    </item>
     <item>
       <title>John Gallagher Jr. – Almost Ok (2026)</title>
       <link>https://newalbumreleases.net/237439/john-gallagher-jr-almost-ok-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237407</guid>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Empire Of The Sun – Walking On A Dream Reimagined (2026)]]></description>
-    </item>
-    <item>
-      <title>Unwritten Law – An Evening With Unwritten Law (2026)</title>
-      <link>https://newalbumreleases.net/237406/unwritten-law-an-evening-with-unwritten-law-2026/</link>
-      <guid isPermaLink="false">237406</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Unwritten Law – An Evening With Unwritten Law (2026)]]></description>
     </item>
   </channel>
 </rss>
