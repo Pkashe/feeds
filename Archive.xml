@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Tue, 18 Aug 2026 07:58:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 09:18:14 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Pamela. – It’s Nice To See You Here (2026)</title>
+      <link>https://newalbumreleases.net/237424/pamela-its-nice-to-see-you-here-2026/</link>
+      <guid isPermaLink="false">237424</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Pamela. – It’s Nice To See You Here (2026)]]></description>
+    </item>
     <item>
       <title>Bonnie Parker – Debutante (2026)</title>
       <link>https://newalbumreleases.net/237423/bonnie-parker-debutante-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237394</guid>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Ekmeles – Nonsongs (2026)]]></description>
-    </item>
-    <item>
-      <title>The Vernons – Strike Out Again (2026)</title>
-      <link>https://newalbumreleases.net/237393/the-vernons-strike-out-again-2026/</link>
-      <guid isPermaLink="false">237393</guid>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: The Vernons – Strike Out Again (2026)]]></description>
     </item>
   </channel>
 </rss>
