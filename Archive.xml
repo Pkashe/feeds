@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Wed, 19 Aug 2026 20:58:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 21:55:39 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Willy Aston – Willy! And His Very First Album (2026)</title>
+      <link>https://newalbumreleases.net/237466/willy-aston-willy-and-his-very-first-album-2026/</link>
+      <guid isPermaLink="false">237466</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Willy Aston – Willy! And His Very First Album (2026)]]></description>
+    </item>
     <item>
       <title>The Medium – Speaking Of The Coast (2026)</title>
       <link>https://newalbumreleases.net/237465/the-medium-speaking-of-the-coast-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237437</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Evan Parker & John Zorn – Those Landings (2026)]]></description>
-    </item>
-    <item>
-      <title>2K88 – Everything Always Changes, For We’re Truly Here (2026)</title>
-      <link>https://newalbumreleases.net/237436/2k88-everything-always-changes-for-were-truly-here-2026/</link>
-      <guid isPermaLink="false">237436</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: 2K88 – Everything Always Changes, For We’re Truly Here (2026)]]></description>
     </item>
   </channel>
 </rss>
