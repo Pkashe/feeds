@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Wed, 19 Aug 2026 14:05:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 16:01:39 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -20,6 +20,20 @@
       <guid isPermaLink="false">237458</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Lambchop – Punching The Clown (2026)]]></description>
+    </item>
+    <item>
+      <title>Filth – Death Exhibition (2026)</title>
+      <link>https://newalbumreleases.net/237457/filth-death-exhibition-2026/</link>
+      <guid isPermaLink="false">237457</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Filth – Death Exhibition (2026)]]></description>
+    </item>
+    <item>
+      <title>Various Artists – Back To School (2026)</title>
+      <link>https://newalbumreleases.net/237456/various-artists-back-to-school-2026/</link>
+      <guid isPermaLink="false">237456</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Various Artists – Back To School (2026)]]></description>
     </item>
     <item>
       <title>The Cleaners From Venus – Beryl And Ruff Go Shopping (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">237431</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Soccer Mommy – For Young Hearts [10th Anniversary Edition] (2026)]]></description>
-    </item>
-    <item>
-      <title>Melodi Ghazal – Idol Melodies (2026)</title>
-      <link>https://newalbumreleases.net/237429/melodi-ghazal-idol-melodies-2026/</link>
-      <guid isPermaLink="false">237429</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Melodi Ghazal – Idol Melodies (2026)]]></description>
-    </item>
-    <item>
-      <title>Sarah Gross – The Old Side Of Being Young (2026)</title>
-      <link>https://newalbumreleases.net/237428/sarah-gross-the-old-side-of-being-young-2026/</link>
-      <guid isPermaLink="false">237428</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Sarah Gross – The Old Side Of Being Young (2026)]]></description>
     </item>
   </channel>
 </rss>
