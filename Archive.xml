@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Wed, 19 Aug 2026 10:58:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 11:55:58 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">237455</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: The Cleaners From Venus – Beryl And Ruff Go Shopping (2026)]]></description>
+    </item>
+    <item>
+      <title>Buju Banton – Too Too Bad (2026)</title>
+      <link>https://newalbumreleases.net/237452/buju-banton-too-too-bad-2026/</link>
+      <guid isPermaLink="false">237452</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Buju Banton – Too Too Bad (2026)]]></description>
     </item>
     <item>
       <title>Nathan King – I’m Just Me (2026)</title>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237426</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: The Western Front – Eureka (2026)]]></description>
-    </item>
-    <item>
-      <title>ContraPunctus – ContraPunctus (2026)</title>
-      <link>https://newalbumreleases.net/237425/contrapunctus-contrapunctus-2026/</link>
-      <guid isPermaLink="false">237425</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: ContraPunctus – ContraPunctus (2026)]]></description>
     </item>
   </channel>
 </rss>
