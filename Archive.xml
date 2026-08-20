@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Thu, 20 Aug 2026 10:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:57:35 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -34,6 +34,20 @@
       <guid isPermaLink="false">237488</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Cornelius – Refractions (2026)]]></description>
+    </item>
+    <item>
+      <title>Ferries – Eye Wander (2026)</title>
+      <link>https://newalbumreleases.net/237480/ferries-eye-wander-2026/</link>
+      <guid isPermaLink="false">237480</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Ferries – Eye Wander (2026)]]></description>
+    </item>
+    <item>
+      <title>The Whiskey Treaty Roadshow – Kept Rising (2026)</title>
+      <link>https://newalbumreleases.net/237479/the-whiskey-treaty-roadshow-kept-rising-2026/</link>
+      <guid isPermaLink="false">237479</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: The Whiskey Treaty Roadshow – Kept Rising (2026)]]></description>
     </item>
     <item>
       <title>The Reytons – A Love Letter To A Broken Town (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">237453</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: The Reytons – A Love Letter To A Broken Town (2026)]]></description>
-    </item>
-    <item>
-      <title>Buju Banton – Too Too Bad (2026)</title>
-      <link>https://newalbumreleases.net/237452/buju-banton-too-too-bad-2026/</link>
-      <guid isPermaLink="false">237452</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Buju Banton – Too Too Bad (2026)]]></description>
-    </item>
-    <item>
-      <title>Nathan King – I’m Just Me (2026)</title>
-      <link>https://newalbumreleases.net/237451/nathan-king-im-just-me-2026/</link>
-      <guid isPermaLink="false">237451</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Nathan King – I’m Just Me (2026)]]></description>
     </item>
   </channel>
 </rss>
