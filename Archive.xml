@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Fri, 21 Aug 2026 08:03:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:06:09 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -99,11 +99,18 @@
       <description><![CDATA[New Album Releases archive post: Bayside – Bark At The Moon (2026)]]></description>
     </item>
     <item>
-      <title>Sakoya – World Gone Crazy (2026)</title>
-      <link>https://newalbumreleases.net/237556/sakoya-world-gone-crazy-2026/</link>
-      <guid isPermaLink="false">237556</guid>
+      <title>Hollan Holmes – The Sanctity Of Rust (2026)</title>
+      <link>https://newalbumreleases.net/237508/hollan-holmes-the-sanctity-of-rust-2026/</link>
+      <guid isPermaLink="false">237508</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Sakoya – World Gone Crazy (2026)]]></description>
+      <description><![CDATA[New Album Releases archive post: Hollan Holmes – The Sanctity Of Rust (2026)]]></description>
+    </item>
+    <item>
+      <title>Norside – Coal And Soul (2026)</title>
+      <link>https://newalbumreleases.net/237507/norside-coal-and-soul-2026/</link>
+      <guid isPermaLink="false">237507</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Norside – Coal And Soul (2026)]]></description>
     </item>
     <item>
       <title>Evil Graham Lee – I Think I’m Alone Now (2026)</title>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237490</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Flamin’ Groovies – Jumpin’ In The Night The Deluxe Edition (2026)]]></description>
-    </item>
-    <item>
-      <title>The Blood Arm – Bomb Romantics Remastered (2026)</title>
-      <link>https://newalbumreleases.net/237487/the-blood-arm-bomb-romantics-remastered-2026/</link>
-      <guid isPermaLink="false">237487</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: The Blood Arm – Bomb Romantics Remastered (2026)]]></description>
     </item>
   </channel>
 </rss>
