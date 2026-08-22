@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 22 Aug 2026 03:07:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 05:04:03 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -76,6 +76,20 @@
       <guid isPermaLink="false">237588</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: The Game – The Documentary III (2026)]]></description>
+    </item>
+    <item>
+      <title>Oddland – Unilluminate To Illuminate (2026)</title>
+      <link>https://newalbumreleases.net/237568/oddland-unilluminate-to-illuminate-2026/</link>
+      <guid isPermaLink="false">237568</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Oddland – Unilluminate To Illuminate (2026)]]></description>
+    </item>
+    <item>
+      <title>Joyous Wolf – In Between (2026)</title>
+      <link>https://newalbumreleases.net/237567/joyous-wolf-in-between-2026/</link>
+      <guid isPermaLink="false">237567</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Joyous Wolf – In Between (2026)]]></description>
     </item>
     <item>
       <title>The Barbarians Of California – Megatons (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">237508</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Hollan Holmes – The Sanctity Of Rust (2026)]]></description>
-    </item>
-    <item>
-      <title>Norside – Coal And Soul (2026)</title>
-      <link>https://newalbumreleases.net/237507/norside-coal-and-soul-2026/</link>
-      <guid isPermaLink="false">237507</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Norside – Coal And Soul (2026)]]></description>
-    </item>
-    <item>
-      <title>Evil Graham Lee – I Think I’m Alone Now (2026)</title>
-      <link>https://newalbumreleases.net/237506/evil-graham-lee-i-think-im-alone-now-2026/</link>
-      <guid isPermaLink="false">237506</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Evil Graham Lee – I Think I’m Alone Now (2026)]]></description>
     </item>
   </channel>
 </rss>
