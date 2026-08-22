@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 22 Aug 2026 09:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 10:52:38 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Johnny Winter – Gangster Guitars (2026)</title>
+      <link>https://newalbumreleases.net/237587/johnny-winter-gangster-guitars-2026/</link>
+      <guid isPermaLink="false">237587</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Johnny Winter – Gangster Guitars (2026)]]></description>
+    </item>
     <item>
       <title>Louis La Roche – The New Now (2026)</title>
       <link>https://newalbumreleases.net/237599/louis-la-roche-the-new-now-2026/</link>
@@ -76,6 +83,13 @@
       <guid isPermaLink="false">237588</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: The Game – The Documentary III (2026)]]></description>
+    </item>
+    <item>
+      <title>Kindred North – Kindred North (2026)</title>
+      <link>https://newalbumreleases.net/237586/kindred-north-kindred-north-2026/</link>
+      <guid isPermaLink="false">237586</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Kindred North – Kindred North (2026)]]></description>
     </item>
     <item>
       <title>Brennan Wedl – Brennan Wedl (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">237533</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Ghost Hounds – Justified (2026)]]></description>
-    </item>
-    <item>
-      <title>Paul Heaton – Jenius (2026)</title>
-      <link>https://newalbumreleases.net/237532/paul-heaton-jenius-2026/</link>
-      <guid isPermaLink="false">237532</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Paul Heaton – Jenius (2026)]]></description>
-    </item>
-    <item>
-      <title>Dan And Shay – Young (2026)</title>
-      <link>https://newalbumreleases.net/237531/dan-and-shay-young-2026/</link>
-      <guid isPermaLink="false">237531</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Dan And Shay – Young (2026)]]></description>
     </item>
   </channel>
 </rss>
