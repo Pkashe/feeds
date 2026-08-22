@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 22 Aug 2026 20:52:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 21:44:37 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -55,6 +55,13 @@
       <guid isPermaLink="false">237620</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Tesla – Homage (2026)]]></description>
+    </item>
+    <item>
+      <title>Huntertones – Transmission (2026)</title>
+      <link>https://newalbumreleases.net/237608/huntertones-transmission-2026/</link>
+      <guid isPermaLink="false">237608</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Huntertones – Transmission (2026)]]></description>
     </item>
     <item>
       <title>The Steel Woods – The Lexington Tapes (2026)</title>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237563</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Dead Velvet – Growing Pains (2026)]]></description>
-    </item>
-    <item>
-      <title>Michael McDermott – Flowers From The Graveyard (2026)</title>
-      <link>https://newalbumreleases.net/237562/michael-mcdermott-flowers-from-the-graveyard-2026/</link>
-      <guid isPermaLink="false">237562</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Michael McDermott – Flowers From The Graveyard (2026)]]></description>
     </item>
   </channel>
 </rss>
