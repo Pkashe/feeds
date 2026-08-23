@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 23 Aug 2026 03:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 05:16:07 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -55,6 +55,20 @@
       <guid isPermaLink="false">237620</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Tesla – Homage (2026)]]></description>
+    </item>
+    <item>
+      <title>GB – Herzsprung (2026)</title>
+      <link>https://newalbumreleases.net/237615/gb-herzsprung-2026/</link>
+      <guid isPermaLink="false">237615</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: GB – Herzsprung (2026)]]></description>
+    </item>
+    <item>
+      <title>MyVeronica – I Hope There’s Music In Heaven (2026)</title>
+      <link>https://newalbumreleases.net/237614/myveronica-i-hope-theres-music-in-heaven-2026/</link>
+      <guid isPermaLink="false">237614</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: MyVeronica – I Hope There’s Music In Heaven (2026)]]></description>
     </item>
     <item>
       <title>Elizabeth Cook – Great Television (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">237583</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Black Pantera – Continental (2026)]]></description>
-    </item>
-    <item>
-      <title>Mithotyn – Gathered Around The Oaken Table (2026)</title>
-      <link>https://newalbumreleases.net/237582/mithotyn-gathered-around-the-oaken-table-2026/</link>
-      <guid isPermaLink="false">237582</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Mithotyn – Gathered Around The Oaken Table (2026)]]></description>
-    </item>
-    <item>
-      <title>Oddland – Unilluminate To Illuminate (2026)</title>
-      <link>https://newalbumreleases.net/237568/oddland-unilluminate-to-illuminate-2026/</link>
-      <guid isPermaLink="false">237568</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Oddland – Unilluminate To Illuminate (2026)]]></description>
     </item>
   </channel>
 </rss>
