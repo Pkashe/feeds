@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 23 Aug 2026 21:43:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 22:50:52 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Big Nothing – Big Nothing (2026)</title>
+      <link>https://newalbumreleases.net/237640/big-nothing-big-nothing-2026/</link>
+      <guid isPermaLink="false">237640</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Big Nothing – Big Nothing (2026)]]></description>
+    </item>
     <item>
       <title>The Secrecy – Pins And Needles (2026)</title>
       <link>https://newalbumreleases.net/237639/the-secrecy-pins-and-needles-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237607</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: The Steel Woods – The Lexington Tapes (2026)]]></description>
-    </item>
-    <item>
-      <title>Haliene – Eclipsed (2026)</title>
-      <link>https://newalbumreleases.net/237606/haliene-eclipsed-2026/</link>
-      <guid isPermaLink="false">237606</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Haliene – Eclipsed (2026)]]></description>
     </item>
   </channel>
 </rss>
