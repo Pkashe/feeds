@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 23 Aug 2026 05:16:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:47:41 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -55,6 +55,27 @@
       <guid isPermaLink="false">237620</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Tesla – Homage (2026)]]></description>
+    </item>
+    <item>
+      <title>Queenie – Pleasance (2026)</title>
+      <link>https://newalbumreleases.net/237618/queenie-pleasance-2026/</link>
+      <guid isPermaLink="false">237618</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Queenie – Pleasance (2026)]]></description>
+    </item>
+    <item>
+      <title>Joanna Connor – Live On 11-11 (2026)</title>
+      <link>https://newalbumreleases.net/237617/joanna-connor-live-on-11-11-2026/</link>
+      <guid isPermaLink="false">237617</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Joanna Connor – Live On 11-11 (2026)]]></description>
+    </item>
+    <item>
+      <title>The Retrograde – Live Forever (2026)</title>
+      <link>https://newalbumreleases.net/237616/the-retrograde-live-forever-2026/</link>
+      <guid isPermaLink="false">237616</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: The Retrograde – Live Forever (2026)]]></description>
     </item>
     <item>
       <title>GB – Herzsprung (2026)</title>
@@ -195,27 +216,6 @@
       <guid isPermaLink="false">237586</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Kindred North – Kindred North (2026)]]></description>
-    </item>
-    <item>
-      <title>Brennan Wedl – Brennan Wedl (2026)</title>
-      <link>https://newalbumreleases.net/237585/brennan-wedl-brennan-wedl-2026/</link>
-      <guid isPermaLink="false">237585</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Brennan Wedl – Brennan Wedl (2026)]]></description>
-    </item>
-    <item>
-      <title>Mar-Vista – Visions (2026)</title>
-      <link>https://newalbumreleases.net/237584/mar-vista-visions-2026-2/</link>
-      <guid isPermaLink="false">237584</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Mar-Vista – Visions (2026)]]></description>
-    </item>
-    <item>
-      <title>Black Pantera – Continental (2026)</title>
-      <link>https://newalbumreleases.net/237583/black-pantera-continental-2026/</link>
-      <guid isPermaLink="false">237583</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Black Pantera – Continental (2026)]]></description>
     </item>
   </channel>
 </rss>
