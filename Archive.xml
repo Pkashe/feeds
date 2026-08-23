@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 23 Aug 2026 10:53:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 11:43:49 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Enigma Dubz – Mixtape 3 Bars (2026)</title>
+      <link>https://newalbumreleases.net/237627/enigma-dubz-mixtape-3-bars-2026/</link>
+      <guid isPermaLink="false">237627</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Enigma Dubz – Mixtape 3 Bars (2026)]]></description>
+    </item>
     <item>
       <title>Anekdoten – Vemod (2026)</title>
       <link>https://newalbumreleases.net/237625/anekdoten-vemod-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237603</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Surfer Girl – Midnight (2026)]]></description>
-    </item>
-    <item>
-      <title>Ian Munsick – The Mountain Goat (2026)</title>
-      <link>https://newalbumreleases.net/237602/ian-munsick-the-mountain-goat-2026/</link>
-      <guid isPermaLink="false">237602</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Ian Munsick – The Mountain Goat (2026)]]></description>
     </item>
   </channel>
 </rss>
