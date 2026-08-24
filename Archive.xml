@@ -4,9 +4,23 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 24 Aug 2026 05:57:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:27:56 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Bill Evans – At The BBC Studios (2026)</title>
+      <link>https://newalbumreleases.net/237650/bill-evans-at-the-bbc-studios-2026/</link>
+      <guid isPermaLink="false">237650</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Bill Evans – At The BBC Studios (2026)]]></description>
+    </item>
+    <item>
+      <title>Pieta Brown – Dreamin’ Of (2026)</title>
+      <link>https://newalbumreleases.net/237648/pieta-brown-dreamin-of-2026/</link>
+      <guid isPermaLink="false">237648</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Pieta Brown – Dreamin’ Of (2026)]]></description>
+    </item>
     <item>
       <title>Iris Temple – Ghosts Of The Future (2026)</title>
       <link>https://newalbumreleases.net/237647/iris-temple-ghosts-of-the-future-2026/</link>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">237616</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: The Retrograde – Live Forever (2026)]]></description>
-    </item>
-    <item>
-      <title>GB – Herzsprung (2026)</title>
-      <link>https://newalbumreleases.net/237615/gb-herzsprung-2026/</link>
-      <guid isPermaLink="false">237615</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: GB – Herzsprung (2026)]]></description>
-    </item>
-    <item>
-      <title>MyVeronica – I Hope There’s Music In Heaven (2026)</title>
-      <link>https://newalbumreleases.net/237614/myveronica-i-hope-theres-music-in-heaven-2026/</link>
-      <guid isPermaLink="false">237614</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: MyVeronica – I Hope There’s Music In Heaven (2026)]]></description>
     </item>
   </channel>
 </rss>
