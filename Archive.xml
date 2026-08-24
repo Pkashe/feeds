@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 24 Aug 2026 14:26:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 16:19:27 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -69,6 +69,20 @@
       <guid isPermaLink="false">237665</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Freya Ridings – Mother Of Pearl (2026)]]></description>
+    </item>
+    <item>
+      <title>Torque – II (2026)</title>
+      <link>https://newalbumreleases.net/237660/torque-ii-2026/</link>
+      <guid isPermaLink="false">237660</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Torque – II (2026)]]></description>
+    </item>
+    <item>
+      <title>Bernie Marsden – Stage (2026)</title>
+      <link>https://newalbumreleases.net/237659/bernie-marsden-stage-2026/</link>
+      <guid isPermaLink="false">237659</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Bernie Marsden – Stage (2026)]]></description>
     </item>
     <item>
       <title>United States Of Existence – Lavender Glory Trip (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">237637</guid>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Will Sheff – Extra Mile (2026)]]></description>
-    </item>
-    <item>
-      <title>Betty Buckley – Enough [Live At Joe’s Pub] (2026)</title>
-      <link>https://newalbumreleases.net/237636/betty-buckley-enough-live-at-joes-pub-2026/</link>
-      <guid isPermaLink="false">237636</guid>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Betty Buckley – Enough [Live At Joe’s Pub] (2026)]]></description>
-    </item>
-    <item>
-      <title>John R. Miller – The Great Unknowing (2026)</title>
-      <link>https://newalbumreleases.net/237635/john-r-miller-the-great-unknowing-2026-2/</link>
-      <guid isPermaLink="false">237635</guid>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: John R. Miller – The Great Unknowing (2026)]]></description>
     </item>
   </channel>
 </rss>
