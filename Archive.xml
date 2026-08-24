@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 24 Aug 2026 19:59:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 21:05:26 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -50,6 +50,13 @@
       <description><![CDATA[New Album Releases archive post: Shannon – Tropical Mood (2026)]]></description>
     </item>
     <item>
+      <title>Terra – Flames Of Passion [Metallic Blue Records Remastered Reissue] (2026)</title>
+      <link>https://newalbumreleases.net/237668/terra-flames-of-passion-metallic-blue-records-remastered-reissue-2026/</link>
+      <guid isPermaLink="false">237668</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Terra – Flames Of Passion [Metallic Blue Records Remastered Reissue] (2026)]]></description>
+    </item>
+    <item>
       <title>Eric Bellinger – Eric Bellinger (2026)</title>
       <link>https://newalbumreleases.net/237667/eric-bellinger-eric-bellinger-2026/</link>
       <guid isPermaLink="false">237667</guid>
@@ -69,6 +76,13 @@
       <guid isPermaLink="false">237665</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Freya Ridings – Mother Of Pearl (2026)]]></description>
+    </item>
+    <item>
+      <title>Rocketsuit Rogue – Hello, Apocalypse! (2026)</title>
+      <link>https://newalbumreleases.net/237664/rocketsuit-rogue-hello-apocalypse-2026/</link>
+      <guid isPermaLink="false">237664</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Rocketsuit Rogue – Hello, Apocalypse! (2026)]]></description>
     </item>
     <item>
       <title>Janel Leppin – Slowly Melting (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">237642</guid>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Jimmy Riley – Give Love A Try (2026)]]></description>
-    </item>
-    <item>
-      <title>Wailin Storms – The Arsonist (2026)</title>
-      <link>https://newalbumreleases.net/237641/wailin-storms-the-arsonist-2026-2/</link>
-      <guid isPermaLink="false">237641</guid>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Wailin Storms – The Arsonist (2026)]]></description>
-    </item>
-    <item>
-      <title>Big Nothing – Big Nothing (2026)</title>
-      <link>https://newalbumreleases.net/237640/big-nothing-big-nothing-2026/</link>
-      <guid isPermaLink="false">237640</guid>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Big Nothing – Big Nothing (2026)]]></description>
     </item>
   </channel>
 </rss>
