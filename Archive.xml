@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Tue, 25 Aug 2026 22:59:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:54:24 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -69,6 +69,13 @@
       <guid isPermaLink="false">237704</guid>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Alex Amor – Heavenly Bodies (2026)]]></description>
+    </item>
+    <item>
+      <title>Simon Love – The One True Prince Of Wales (2026)</title>
+      <link>https://newalbumreleases.net/237701/simon-love-the-one-true-prince-of-wales-2026/</link>
+      <guid isPermaLink="false">237701</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Simon Love – The One True Prince Of Wales (2026)]]></description>
     </item>
     <item>
       <title>Dolder – This Is How You See Me Now (2026)</title>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237681</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Old Man Winther – Driving All Night (2026)]]></description>
-    </item>
-    <item>
-      <title>Old Man Winther – Adeline (2026)</title>
-      <link>https://newalbumreleases.net/237680/old-man-winther-adeline-2026/</link>
-      <guid isPermaLink="false">237680</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Old Man Winther – Adeline (2026)]]></description>
     </item>
   </channel>
 </rss>
