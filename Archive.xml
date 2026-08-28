@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Fri, 28 Aug 2026 22:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 23:03:18 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -155,6 +155,13 @@
       <description><![CDATA[New Album Releases archive post: Lauren Alaina – Stages (2026)]]></description>
     </item>
     <item>
+      <title>Noekk – Vergessenes (2026)</title>
+      <link>https://newalbumreleases.net/237865/noekk-vergessenes-2026/</link>
+      <guid isPermaLink="false">237865</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Noekk – Vergessenes (2026)]]></description>
+    </item>
+    <item>
       <title>Fletchr Fletchr – On The Island We Call Home (2026)</title>
       <link>https://newalbumreleases.net/237864/fletchr-fletchr-on-the-island-we-call-home-2026/</link>
       <guid isPermaLink="false">237864</guid>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237798</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Prince Hammer – Respect I Man (2026)]]></description>
-    </item>
-    <item>
-      <title>Harrykirby – Written On My Brain (2026)</title>
-      <link>https://newalbumreleases.net/237797/harrykirby-written-on-my-brain-2026/</link>
-      <guid isPermaLink="false">237797</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Harrykirby – Written On My Brain (2026)]]></description>
     </item>
   </channel>
 </rss>
