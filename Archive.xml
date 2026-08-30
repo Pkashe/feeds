@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 29 Aug 2026 23:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:04:08 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Wolves Of Glendale – Go To The Woods (2026)</title>
+      <link>https://newalbumreleases.net/237930/wolves-of-glendale-go-to-the-woods-2026/</link>
+      <guid isPermaLink="false">237930</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Wolves Of Glendale – Go To The Woods (2026)]]></description>
+    </item>
     <item>
       <title>Anyx – Starlink (2026)</title>
       <link>https://newalbumreleases.net/237929/anyx-starlink-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237863</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Ultra-Violence – All My Life (2026)]]></description>
-    </item>
-    <item>
-      <title>Black Spikes – Ydos (2026)</title>
-      <link>https://newalbumreleases.net/237862/black-spikes-ydos-2026/</link>
-      <guid isPermaLink="false">237862</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Black Spikes – Ydos (2026)]]></description>
     </item>
   </channel>
 </rss>
