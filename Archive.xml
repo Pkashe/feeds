@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 30 Aug 2026 11:03:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 12:03:43 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Little Bihlman – Heavy Head (2026)</title>
+      <link>https://newalbumreleases.net/237945/little-bihlman-heavy-head-2026/</link>
+      <guid isPermaLink="false">237945</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Little Bihlman – Heavy Head (2026)]]></description>
+    </item>
     <item>
       <title>Heather Anne Lomax – Who Do You Think You Are (2026)</title>
       <link>https://newalbumreleases.net/237944/heather-anne-lomax-who-do-you-think-you-are-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237895</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Sortilege – Larmes Des Heros (2026)]]></description>
-    </item>
-    <item>
-      <title>Danielle Nicole – Fireflies (2026)</title>
-      <link>https://newalbumreleases.net/237894/danielle-nicole-fireflies-2026/</link>
-      <guid isPermaLink="false">237894</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Danielle Nicole – Fireflies (2026)]]></description>
     </item>
   </channel>
 </rss>
