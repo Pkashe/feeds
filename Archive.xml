@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 30 Aug 2026 16:03:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 17:03:22 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Steve Roach – SpiritWorlds (2026)</title>
+      <link>https://newalbumreleases.net/237951/steve-roach-spiritworlds-2026/</link>
+      <guid isPermaLink="false">237951</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Steve Roach – SpiritWorlds (2026)]]></description>
+    </item>
     <item>
       <title>Emerson, Lake And Palmer – Brain Salad Surgery (2026)</title>
       <link>https://newalbumreleases.net/237950/emerson-lake-and-palmer-brain-salad-surgery-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237900</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Mike D – Thank You (2026)]]></description>
-    </item>
-    <item>
-      <title>Cocktail Slippers – Joyride (2026)</title>
-      <link>https://newalbumreleases.net/237899/cocktail-slippers-joyride-2026/</link>
-      <guid isPermaLink="false">237899</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Cocktail Slippers – Joyride (2026)]]></description>
     </item>
   </channel>
 </rss>
