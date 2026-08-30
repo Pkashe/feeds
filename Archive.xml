@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 30 Aug 2026 06:03:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 07:03:25 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Fruition – Something More (2026)</title>
+      <link>https://newalbumreleases.net/237940/fruition-something-more-2026/</link>
+      <guid isPermaLink="false">237940</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Fruition – Something More (2026)]]></description>
+    </item>
     <item>
       <title>The Guest List – Something Real (2026)</title>
       <link>https://newalbumreleases.net/237939/the-guest-list-something-real-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237892</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: A Cold Paradise – A Cold Paradise (2026)]]></description>
-    </item>
-    <item>
-      <title>McAuley Schenker Group – Bad Boys The McAuley Schenker Group Story 1987-1992 (2026)</title>
-      <link>https://newalbumreleases.net/237890/mcauley-schenker-group-bad-boys-the-mcauley-schenker-group-story-1987-1992-2026/</link>
-      <guid isPermaLink="false">237890</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: McAuley Schenker Group – Bad Boys The McAuley Schenker Group Story 1987-1992 (2026)]]></description>
     </item>
   </channel>
 </rss>
