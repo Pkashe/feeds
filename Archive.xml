@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 30 Aug 2026 19:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 20:03:34 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Mohamed Bourouissa – Lila (2026)</title>
+      <link>https://newalbumreleases.net/237954/mohamed-bourouissa-lila-2026/</link>
+      <guid isPermaLink="false">237954</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Mohamed Bourouissa – Lila (2026)]]></description>
+    </item>
     <item>
       <title>Nils – Chill It (2026)</title>
       <link>https://newalbumreleases.net/237953/nils-chill-it-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237903</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Totalitar – Totalitar (2026)]]></description>
-    </item>
-    <item>
-      <title>Dreamwell – Hymns For The Denial Of God (2026)</title>
-      <link>https://newalbumreleases.net/237902/dreamwell-hymns-for-the-denial-of-god-2026-2/</link>
-      <guid isPermaLink="false">237902</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Dreamwell – Hymns For The Denial Of God (2026)]]></description>
     </item>
   </channel>
 </rss>
