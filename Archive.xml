@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 30 Aug 2026 13:03:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 14:03:14 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Russ Millions – Perseverance (2026)</title>
+      <link>https://newalbumreleases.net/237948/russ-millions-perseverance-2026/</link>
+      <guid isPermaLink="false">237948</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Russ Millions – Perseverance (2026)]]></description>
+    </item>
     <item>
       <title>Bob Marley &amp; The Wailers – Roots, Rock, Reggae [Live At The Hammersmith Odeon] (2026)</title>
       <link>https://newalbumreleases.net/237947/bob-marley-the-wailers-roots-rock-reggae-live-at-the-hammersmith-odeon-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237897</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Le Ren – Don’t Be Funny Without Me (2026)]]></description>
-    </item>
-    <item>
-      <title>Alden Hellmuth – Tether (2026)</title>
-      <link>https://newalbumreleases.net/237896/alden-hellmuth-tether-2026/</link>
-      <guid isPermaLink="false">237896</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Alden Hellmuth – Tether (2026)]]></description>
     </item>
   </channel>
 </rss>
