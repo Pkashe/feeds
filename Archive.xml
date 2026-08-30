@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 30 Aug 2026 03:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 04:03:36 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Niina Soleil – Californialand (2026)</title>
+      <link>https://newalbumreleases.net/237934/niina-soleil-californialand-2026/</link>
+      <guid isPermaLink="false">237934</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Niina Soleil – Californialand (2026)]]></description>
+    </item>
     <item>
       <title>Asava – Mahjong (2026)</title>
       <link>https://newalbumreleases.net/237933/asava-mahjong-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237874</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: State Power – Hyperstition (2026)]]></description>
-    </item>
-    <item>
-      <title>Dreamwell – Hymns For The Denial Of God (2026)</title>
-      <link>https://newalbumreleases.net/237873/dreamwell-hymns-for-the-denial-of-god-2026/</link>
-      <guid isPermaLink="false">237873</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Dreamwell – Hymns For The Denial Of God (2026)]]></description>
     </item>
   </channel>
 </rss>
