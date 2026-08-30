@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 30 Aug 2026 10:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:03:33 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Heather Anne Lomax – Who Do You Think You Are (2026)</title>
+      <link>https://newalbumreleases.net/237944/heather-anne-lomax-who-do-you-think-you-are-2026/</link>
+      <guid isPermaLink="false">237944</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Heather Anne Lomax – Who Do You Think You Are (2026)]]></description>
+    </item>
     <item>
       <title>Ty Segall – Love Fuzzz (2026)</title>
       <link>https://newalbumreleases.net/237946/ty-segall-love-fuzzz-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237894</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Danielle Nicole – Fireflies (2026)]]></description>
-    </item>
-    <item>
-      <title>Ladrones – Arriba La L (2026)</title>
-      <link>https://newalbumreleases.net/237893/ladrones-arriba-la-l-2026/</link>
-      <guid isPermaLink="false">237893</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Ladrones – Arriba La L (2026)]]></description>
     </item>
   </channel>
 </rss>
