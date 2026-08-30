@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 30 Aug 2026 00:04:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:03:39 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Cocktail Slippers – Joyride (2026)</title>
+      <link>https://newalbumreleases.net/237931/cocktail-slippers-joyride-2026-2/</link>
+      <guid isPermaLink="false">237931</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Cocktail Slippers – Joyride (2026)]]></description>
+    </item>
     <item>
       <title>Wolves Of Glendale – Go To The Woods (2026)</title>
       <link>https://newalbumreleases.net/237930/wolves-of-glendale-go-to-the-woods-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237864</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Fletchr Fletchr – On The Island We Call Home (2026)]]></description>
-    </item>
-    <item>
-      <title>Ultra-Violence – All My Life (2026)</title>
-      <link>https://newalbumreleases.net/237863/ultra-violence-all-my-life-2026/</link>
-      <guid isPermaLink="false">237863</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Ultra-Violence – All My Life (2026)]]></description>
     </item>
   </channel>
 </rss>
