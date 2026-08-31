@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 30 Aug 2026 23:03:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 00:04:11 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Kevin Coleman – K.C. Blues (2026)</title>
+      <link>https://newalbumreleases.net/237958/kevin-coleman-k-c-blues-2026/</link>
+      <guid isPermaLink="false">237958</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Kevin Coleman – K.C. Blues (2026)]]></description>
+    </item>
     <item>
       <title>The Del McCoury Band – Del And The Boys [25th Anniversary Deluxe Edition] (2026)</title>
       <link>https://newalbumreleases.net/237957/the-del-mccoury-band-del-and-the-boys-25th-anniversary-deluxe-edition-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237926</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Dahi – Black Boy Alternative (2026)]]></description>
-    </item>
-    <item>
-      <title>Kulk – Choosing To Die (2026)</title>
-      <link>https://newalbumreleases.net/237906/kulk-choosing-to-die-2026/</link>
-      <guid isPermaLink="false">237906</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Kulk – Choosing To Die (2026)]]></description>
     </item>
   </channel>
 </rss>
