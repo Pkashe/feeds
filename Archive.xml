@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 31 Aug 2026 12:03:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:03:38 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Jacob Ungerleider – Congratulations (2026)</title>
+      <link>https://newalbumreleases.net/237971/jacob-ungerleider-congratulations-2026-2/</link>
+      <guid isPermaLink="false">237971</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Jacob Ungerleider – Congratulations (2026)]]></description>
+    </item>
     <item>
       <title>River Shook – River Shook (2026)</title>
       <link>https://newalbumreleases.net/237970/river-shook-river-shook-2026-2/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237946</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Ty Segall – Love Fuzzz (2026)]]></description>
-    </item>
-    <item>
-      <title>SPC ECO – Phased (2026)</title>
-      <link>https://newalbumreleases.net/237943/spc-eco-phased-2026/</link>
-      <guid isPermaLink="false">237943</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: SPC ECO – Phased (2026)]]></description>
     </item>
   </channel>
 </rss>
