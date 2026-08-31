@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 31 Aug 2026 15:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:03:28 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Mould – Hoping As A Coping Mechanism (2026)</title>
+      <link>https://newalbumreleases.net/237974/mould-hoping-as-a-coping-mechanism-2026-2/</link>
+      <guid isPermaLink="false">237974</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Mould – Hoping As A Coping Mechanism (2026)]]></description>
+    </item>
     <item>
       <title>Jim Bob – The Panic Room EP (2026)</title>
       <link>https://newalbumreleases.net/237973/jim-bob-the-panic-room-ep-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237947</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Bob Marley & The Wailers – Roots, Rock, Reggae [Live At The Hammersmith Odeon] (2026)]]></description>
-    </item>
-    <item>
-      <title>Little Bihlman – Heavy Head (2026)</title>
-      <link>https://newalbumreleases.net/237945/little-bihlman-heavy-head-2026/</link>
-      <guid isPermaLink="false">237945</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Little Bihlman – Heavy Head (2026)]]></description>
     </item>
   </channel>
 </rss>
