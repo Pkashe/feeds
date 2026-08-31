@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 31 Aug 2026 13:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:04:07 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Outlier – Screamiere (2026)</title>
+      <link>https://newalbumreleases.net/237972/outlier-screamiere-2026/</link>
+      <guid isPermaLink="false">237972</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Outlier – Screamiere (2026)]]></description>
+    </item>
     <item>
       <title>Jacob Ungerleider – Congratulations (2026)</title>
       <link>https://newalbumreleases.net/237971/jacob-ungerleider-congratulations-2026-2/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237944</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Heather Anne Lomax – Who Do You Think You Are (2026)]]></description>
-    </item>
-    <item>
-      <title>Ty Segall – Love Fuzzz (2026)</title>
-      <link>https://newalbumreleases.net/237946/ty-segall-love-fuzzz-2026/</link>
-      <guid isPermaLink="false">237946</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Ty Segall – Love Fuzzz (2026)]]></description>
     </item>
   </channel>
 </rss>
