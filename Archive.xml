@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 31 Aug 2026 10:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:03:21 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Kareyce Fotso – Gwa (2026)</title>
+      <link>https://newalbumreleases.net/237969/kareyce-fotso-gwa-2026/</link>
+      <guid isPermaLink="false">237969</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Kareyce Fotso – Gwa (2026)]]></description>
+    </item>
     <item>
       <title>Ballyhoo! – Bad Summer (2026)</title>
       <link>https://newalbumreleases.net/237980/ballyhoo-bad-summer-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237942</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Zach John King – I’m What You Get (2026)]]></description>
-    </item>
-    <item>
-      <title>Sue Foley – Alone Together A Holiday Companion (2026)</title>
-      <link>https://newalbumreleases.net/237941/sue-foley-alone-together-a-holiday-companion-2026/</link>
-      <guid isPermaLink="false">237941</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Sue Foley – Alone Together A Holiday Companion (2026)]]></description>
     </item>
   </channel>
 </rss>
