@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 31 Aug 2026 21:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 22:03:31 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Shannon Lay – Past The Veil (2026)</title>
+      <link>https://newalbumreleases.net/237982/shannon-lay-past-the-veil-2026/</link>
+      <guid isPermaLink="false">237982</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Shannon Lay – Past The Veil (2026)]]></description>
+    </item>
     <item>
       <title>Basia Bulat – Bouquet (2026)</title>
       <link>https://newalbumreleases.net/237981/basia-bulat-bouquet-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237953</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Nils – Chill It (2026)]]></description>
-    </item>
-    <item>
-      <title>Eli Derby – Loveshy (2026)</title>
-      <link>https://newalbumreleases.net/237952/eli-derby-loveshy-2026/</link>
-      <guid isPermaLink="false">237952</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Eli Derby – Loveshy (2026)]]></description>
     </item>
   </channel>
 </rss>
