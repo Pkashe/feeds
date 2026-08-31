@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 31 Aug 2026 20:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 21:03:13 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Basia Bulat – Bouquet (2026)</title>
+      <link>https://newalbumreleases.net/237981/basia-bulat-bouquet-2026/</link>
+      <guid isPermaLink="false">237981</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Basia Bulat – Bouquet (2026)]]></description>
+    </item>
     <item>
       <title>Horse Feathers – Words Are Dead [Deluxe Reissue] (2026)</title>
       <link>https://newalbumreleases.net/237978/horse-feathers-words-are-dead-deluxe-reissue-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237952</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Eli Derby – Loveshy (2026)]]></description>
-    </item>
-    <item>
-      <title>Steve Roach – SpiritWorlds (2026)</title>
-      <link>https://newalbumreleases.net/237951/steve-roach-spiritworlds-2026/</link>
-      <guid isPermaLink="false">237951</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Steve Roach – SpiritWorlds (2026)]]></description>
     </item>
   </channel>
 </rss>
