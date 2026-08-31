@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 31 Aug 2026 01:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 02:03:26 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Mohini Dey – The Dey Way (2026)</title>
+      <link>https://newalbumreleases.net/237960/mohini-dey-the-dey-way-2026/</link>
+      <guid isPermaLink="false">237960</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Mohini Dey – The Dey Way (2026)]]></description>
+    </item>
     <item>
       <title>Aica Kenzie – Where Nothing Stayed (2026)</title>
       <link>https://newalbumreleases.net/237959/aica-kenzie-where-nothing-stayed-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237928</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Code Pandorum – Tales From The Blight (2026)]]></description>
-    </item>
-    <item>
-      <title>Acid Tongue – Live At Binic (2026)</title>
-      <link>https://newalbumreleases.net/237927/acid-tongue-live-at-binic-2026/</link>
-      <guid isPermaLink="false">237927</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Acid Tongue – Live At Binic (2026)]]></description>
     </item>
   </channel>
 </rss>
