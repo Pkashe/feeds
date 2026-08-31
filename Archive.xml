@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 31 Aug 2026 04:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 05:03:37 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>DoYeon Kim – Wellspring (2026)</title>
+      <link>https://newalbumreleases.net/237963/doyeon-kim-wellspring-2026/</link>
+      <guid isPermaLink="false">237963</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: DoYeon Kim – Wellspring (2026)]]></description>
+    </item>
     <item>
       <title>Morgan Myles – Laced [The Piano Versions] (2026)</title>
       <link>https://newalbumreleases.net/237962/morgan-myles-laced-the-piano-versions-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237931</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Cocktail Slippers – Joyride (2026)]]></description>
-    </item>
-    <item>
-      <title>Wolves Of Glendale – Go To The Woods (2026)</title>
-      <link>https://newalbumreleases.net/237930/wolves-of-glendale-go-to-the-woods-2026/</link>
-      <guid isPermaLink="false">237930</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Wolves Of Glendale – Go To The Woods (2026)]]></description>
     </item>
   </channel>
 </rss>
