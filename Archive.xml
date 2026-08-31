@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 31 Aug 2026 14:04:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:03:22 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Jim Bob – The Panic Room EP (2026)</title>
+      <link>https://newalbumreleases.net/237973/jim-bob-the-panic-room-ep-2026/</link>
+      <guid isPermaLink="false">237973</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Jim Bob – The Panic Room EP (2026)]]></description>
+    </item>
     <item>
       <title>Outlier – Screamiere (2026)</title>
       <link>https://newalbumreleases.net/237972/outlier-screamiere-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237945</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Little Bihlman – Heavy Head (2026)]]></description>
-    </item>
-    <item>
-      <title>Heather Anne Lomax – Who Do You Think You Are (2026)</title>
-      <link>https://newalbumreleases.net/237944/heather-anne-lomax-who-do-you-think-you-are-2026/</link>
-      <guid isPermaLink="false">237944</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Heather Anne Lomax – Who Do You Think You Are (2026)]]></description>
     </item>
   </channel>
 </rss>
