@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 31 Aug 2026 08:03:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 09:03:31 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Luke Borchelt – Water Town (2026)</title>
+      <link>https://newalbumreleases.net/237967/luke-borchelt-water-town-2026/</link>
+      <guid isPermaLink="false">237967</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Luke Borchelt – Water Town (2026)]]></description>
+    </item>
     <item>
       <title>Yawning Balch – Volume Four (2026)</title>
       <link>https://newalbumreleases.net/237966/yawning-balch-volume-four-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237935</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Jenny Tolman – Music City Mutt (2026)]]></description>
-    </item>
-    <item>
-      <title>Niina Soleil – Californialand (2026)</title>
-      <link>https://newalbumreleases.net/237934/niina-soleil-californialand-2026/</link>
-      <guid isPermaLink="false">237934</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Niina Soleil – Californialand (2026)]]></description>
     </item>
   </channel>
 </rss>
