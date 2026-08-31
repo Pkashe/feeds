@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 31 Aug 2026 02:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:03:35 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Claire Chase, Jack Quartet, Samuel Clay Birmahe – The Holy Liftoff (2026)</title>
+      <link>https://newalbumreleases.net/237961/claire-chase-jack-quartet-samuel-clay-birmahe-the-holy-liftoff-2026/</link>
+      <guid isPermaLink="false">237961</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Claire Chase, Jack Quartet, Samuel Clay Birmahe – The Holy Liftoff (2026)]]></description>
+    </item>
     <item>
       <title>Mohini Dey – The Dey Way (2026)</title>
       <link>https://newalbumreleases.net/237960/mohini-dey-the-dey-way-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237929</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Anyx – Starlink (2026)]]></description>
-    </item>
-    <item>
-      <title>Code Pandorum – Tales From The Blight (2026)</title>
-      <link>https://newalbumreleases.net/237928/code-pandorum-tales-from-the-blight-2026/</link>
-      <guid isPermaLink="false">237928</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Code Pandorum – Tales From The Blight (2026)]]></description>
     </item>
   </channel>
 </rss>
