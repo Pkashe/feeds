@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Tue, 01 Sep 2026 00:09:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:06:39 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Daniel Herskedal – Movements Of Air (2026)</title>
+      <link>https://newalbumreleases.net/237985/daniel-herskedal-movements-of-air-2026/</link>
+      <guid isPermaLink="false">237985</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Daniel Herskedal – Movements Of Air (2026)]]></description>
+    </item>
     <item>
       <title>Vory – Dondada (2026)</title>
       <link>https://newalbumreleases.net/237984/vory-dondada-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237956</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Alicia Witt – Between Heaven And Earth (2026)]]></description>
-    </item>
-    <item>
-      <title>Steve Oliver – Inner Fire (2026)</title>
-      <link>https://newalbumreleases.net/237955/steve-oliver-inner-fire-2026/</link>
-      <guid isPermaLink="false">237955</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Steve Oliver – Inner Fire (2026)]]></description>
     </item>
   </channel>
 </rss>
