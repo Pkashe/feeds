@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:05:24 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>The King Blues – A Monkey Could Do That (2026)</title>
+      <link>https://newalbumreleases.net/237986/the-king-blues-a-monkey-could-do-that-2026/</link>
+      <guid isPermaLink="false">237986</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: The King Blues – A Monkey Could Do That (2026)]]></description>
+    </item>
     <item>
       <title>Daniel Herskedal – Movements Of Air (2026)</title>
       <link>https://newalbumreleases.net/237985/daniel-herskedal-movements-of-air-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237957</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: The Del McCoury Band – Del And The Boys [25th Anniversary Deluxe Edition] (2026)]]></description>
-    </item>
-    <item>
-      <title>Alicia Witt – Between Heaven And Earth (2026)</title>
-      <link>https://newalbumreleases.net/237956/alicia-witt-between-heaven-and-earth-2026/</link>
-      <guid isPermaLink="false">237956</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Alicia Witt – Between Heaven And Earth (2026)]]></description>
     </item>
   </channel>
 </rss>
