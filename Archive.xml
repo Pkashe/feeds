@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Mon, 31 Aug 2026 23:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:09:48 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Vory – Dondada (2026)</title>
+      <link>https://newalbumreleases.net/237984/vory-dondada-2026/</link>
+      <guid isPermaLink="false">237984</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Vory – Dondada (2026)]]></description>
+    </item>
     <item>
       <title>Leæther Strip – Æppreciation IX (2026)</title>
       <link>https://newalbumreleases.net/237983/leaether-strip-aeppreciation-ix-2026/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">237955</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Steve Oliver – Inner Fire (2026)]]></description>
-    </item>
-    <item>
-      <title>Mohamed Bourouissa – Lila (2026)</title>
-      <link>https://newalbumreleases.net/237954/mohamed-bourouissa-lila-2026/</link>
-      <guid isPermaLink="false">237954</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Mohamed Bourouissa – Lila (2026)]]></description>
     </item>
   </channel>
 </rss>
