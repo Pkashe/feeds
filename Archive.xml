@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Tue, 01 Sep 2026 13:51:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:31:41 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -20,6 +20,27 @@
       <guid isPermaLink="false">238002</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Jpegmafia – Experimental Rap (2026)]]></description>
+    </item>
+    <item>
+      <title>Lumtz – Tesoros (2026)</title>
+      <link>https://newalbumreleases.net/238001/lumtz-tesoros-2026/</link>
+      <guid isPermaLink="false">238001</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Lumtz – Tesoros (2026)]]></description>
+    </item>
+    <item>
+      <title>Noah Smith – No Strangers After All (2026)</title>
+      <link>https://newalbumreleases.net/238000/noah-smith-no-strangers-after-all-2026/</link>
+      <guid isPermaLink="false">238000</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Noah Smith – No Strangers After All (2026)]]></description>
+    </item>
+    <item>
+      <title>Geo Jordan – Revive (2026)</title>
+      <link>https://newalbumreleases.net/237999/geo-jordan-revive-2026/</link>
+      <guid isPermaLink="false">237999</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Geo Jordan – Revive (2026)]]></description>
     </item>
     <item>
       <title>Skulgard – Feversaint (2026)</title>
@@ -195,27 +216,6 @@
       <guid isPermaLink="false">237972</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Outlier – Screamiere (2026)]]></description>
-    </item>
-    <item>
-      <title>Jacob Ungerleider – Congratulations (2026)</title>
-      <link>https://newalbumreleases.net/237971/jacob-ungerleider-congratulations-2026-2/</link>
-      <guid isPermaLink="false">237971</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Jacob Ungerleider – Congratulations (2026)]]></description>
-    </item>
-    <item>
-      <title>River Shook – River Shook (2026)</title>
-      <link>https://newalbumreleases.net/237970/river-shook-river-shook-2026-2/</link>
-      <guid isPermaLink="false">237970</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: River Shook – River Shook (2026)]]></description>
-    </item>
-    <item>
-      <title>Kareyce Fotso – Gwa (2026)</title>
-      <link>https://newalbumreleases.net/237969/kareyce-fotso-gwa-2026/</link>
-      <guid isPermaLink="false">237969</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Kareyce Fotso – Gwa (2026)]]></description>
     </item>
   </channel>
 </rss>
