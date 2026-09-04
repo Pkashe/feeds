@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Fri, 04 Sep 2026 17:58:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:25:18 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -41,6 +41,20 @@
       <guid isPermaLink="false">238171</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Cat Stevens – Buddha And The Chocolate Box Remastered (2026)]]></description>
+    </item>
+    <item>
+      <title>Bloodshed – Punishments Beyond Comprehension (2026)</title>
+      <link>https://newalbumreleases.net/238148/bloodshed-punishments-beyond-comprehension-2026/</link>
+      <guid isPermaLink="false">238148</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Bloodshed – Punishments Beyond Comprehension (2026)]]></description>
+    </item>
+    <item>
+      <title>Sauros – Offense (2026)</title>
+      <link>https://newalbumreleases.net/238147/sauros-offense-2026/</link>
+      <guid isPermaLink="false">238147</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Sauros – Offense (2026)]]></description>
     </item>
     <item>
       <title>Anchors &amp; Hearts – Campfire Chronicles (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">238091</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: David Carroll – Bold Reynold Free! (2026)]]></description>
-    </item>
-    <item>
-      <title>Lance &amp; Lea – Blues For Breakfast (2026)</title>
-      <link>https://newalbumreleases.net/238090/lance-lea-blues-for-breakfast-2026/</link>
-      <guid isPermaLink="false">238090</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Lance & Lea – Blues For Breakfast (2026)]]></description>
-    </item>
-    <item>
-      <title>Denny Zeitlin – Odyssey (2026)</title>
-      <link>https://newalbumreleases.net/238089/denny-zeitlin-odyssey-2026/</link>
-      <guid isPermaLink="false">238089</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Denny Zeitlin – Odyssey (2026)]]></description>
     </item>
   </channel>
 </rss>
