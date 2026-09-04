@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Fri, 04 Sep 2026 20:25:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 22:42:20 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -41,6 +41,20 @@
       <guid isPermaLink="false">238171</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Cat Stevens – Buddha And The Chocolate Box Remastered (2026)]]></description>
+    </item>
+    <item>
+      <title>Castle – Carrie Chains (2026)</title>
+      <link>https://newalbumreleases.net/238150/castle-carrie-chains-2026/</link>
+      <guid isPermaLink="false">238150</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Castle – Carrie Chains (2026)]]></description>
+    </item>
+    <item>
+      <title>The Krayolas – Outlaw Garage Hits! (2026)</title>
+      <link>https://newalbumreleases.net/238149/the-krayolas-outlaw-garage-hits-2026/</link>
+      <guid isPermaLink="false">238149</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: The Krayolas – Outlaw Garage Hits! (2026)]]></description>
     </item>
     <item>
       <title>Bloodshed – Punishments Beyond Comprehension (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">238093</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: The First Fire – Negative Space (2026)]]></description>
-    </item>
-    <item>
-      <title>Anthony Strong – And Then We Kiss (2026)</title>
-      <link>https://newalbumreleases.net/238092/anthony-strong-and-then-we-kiss-2026/</link>
-      <guid isPermaLink="false">238092</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Anthony Strong – And Then We Kiss (2026)]]></description>
-    </item>
-    <item>
-      <title>David Carroll – Bold Reynold Free! (2026)</title>
-      <link>https://newalbumreleases.net/238091/david-carroll-bold-reynold-free-2026/</link>
-      <guid isPermaLink="false">238091</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: David Carroll – Bold Reynold Free! (2026)]]></description>
     </item>
   </channel>
 </rss>
