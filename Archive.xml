@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 06 Sep 2026 22:49:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 00:36:05 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Tremor – Takuy (2026)</title>
+      <link>https://newalbumreleases.net/238241/tremor-takuy-2026/</link>
+      <guid isPermaLink="false">238241</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Tremor – Takuy (2026)]]></description>
+    </item>
     <item>
       <title>Ed Askew – The Final Painting (2026)</title>
       <link>https://newalbumreleases.net/238240/ed-askew-the-final-painting-2026-2/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">238185</guid>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Jamie Webster – Running Round The Sun (2026)]]></description>
-    </item>
-    <item>
-      <title>The Unknown – Graveyard Of Empires (2026)</title>
-      <link>https://newalbumreleases.net/238184/the-unknown-graveyard-of-empires-2026/</link>
-      <guid isPermaLink="false">238184</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: The Unknown – Graveyard Of Empires (2026)]]></description>
     </item>
   </channel>
 </rss>
