@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 19 Sep 2026 19:52:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 22:01:48 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -55,6 +55,20 @@
       <guid isPermaLink="false">238799</guid>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Violation – Anthology The Underground Metal Vault Chapter 1 (2026)]]></description>
+    </item>
+    <item>
+      <title>The Eternal – Obscured Horizons (2026)</title>
+      <link>https://newalbumreleases.net/238756/the-eternal-obscured-horizons-2026/</link>
+      <guid isPermaLink="false">238756</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: The Eternal – Obscured Horizons (2026)]]></description>
+    </item>
+    <item>
+      <title>Dustbowl Revival – Change Your Mind (2026)</title>
+      <link>https://newalbumreleases.net/238755/dustbowl-revival-change-your-mind-2026/</link>
+      <guid isPermaLink="false">238755</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Dustbowl Revival – Change Your Mind (2026)]]></description>
     </item>
     <item>
       <title>Voodoo Highway – The Satan Inqviesta (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">238812</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Seth MacFarlane – Seth MacFarlane Sings The Muppets (2026)]]></description>
-    </item>
-    <item>
-      <title>Alva Noto – 12 Conversations (2026)</title>
-      <link>https://newalbumreleases.net/238811/alva-noto-12-conversations-2026/</link>
-      <guid isPermaLink="false">238811</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Alva Noto – 12 Conversations (2026)]]></description>
-    </item>
-    <item>
-      <title>Mnek – Bulldozer!! (2026)</title>
-      <link>https://newalbumreleases.net/238810/mnek-bulldozer-2026/</link>
-      <guid isPermaLink="false">238810</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Mnek – Bulldozer!! (2026)]]></description>
     </item>
   </channel>
 </rss>
