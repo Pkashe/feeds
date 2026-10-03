@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 03 Oct 2026 16:56:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:40:17 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -13,6 +13,20 @@
       <guid isPermaLink="false">239484</guid>
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Steve Vai & Joe Satriani – SatchVai: Mayhem (2026)]]></description>
+    </item>
+    <item>
+      <title>Bexley – Dark Noise (2026)</title>
+      <link>https://newalbumreleases.net/239475/bexley-dark-noise-2026/</link>
+      <guid isPermaLink="false">239475</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Bexley – Dark Noise (2026)]]></description>
+    </item>
+    <item>
+      <title>JD Allen – SÖWT (2026)</title>
+      <link>https://newalbumreleases.net/239474/jd-allen-sowt-2026/</link>
+      <guid isPermaLink="false">239474</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: JD Allen – SÖWT (2026)]]></description>
     </item>
     <item>
       <title>Barnes – Long Road (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">239447</guid>
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Amy Grant – The Me That Remains (2026)]]></description>
-    </item>
-    <item>
-      <title>Wishy – Nature’s Pill (2026)</title>
-      <link>https://newalbumreleases.net/239446/wishy-natures-pill-2026/</link>
-      <guid isPermaLink="false">239446</guid>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Wishy – Nature’s Pill (2026)]]></description>
-    </item>
-    <item>
-      <title>Agalloch – Ghosts Of The Midwinter Fires Remixed And Remastered (2026)</title>
-      <link>https://newalbumreleases.net/239445/agalloch-ghosts-of-the-midwinter-fires-remixed-and-remastered-2026/</link>
-      <guid isPermaLink="false">239445</guid>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Agalloch – Ghosts Of The Midwinter Fires Remixed And Remastered (2026)]]></description>
     </item>
   </channel>
 </rss>
