@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 17 Oct 2026 21:19:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 23:42:00 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -62,6 +62,20 @@
       <guid isPermaLink="false">240109</guid>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Catie Turner – Blue Alchemy (2026)]]></description>
+    </item>
+    <item>
+      <title>Endless Wellness – Domino Days (2026)</title>
+      <link>https://newalbumreleases.net/240021/endless-wellness-domino-days-2026/</link>
+      <guid isPermaLink="false">240021</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Endless Wellness – Domino Days (2026)]]></description>
+    </item>
+    <item>
+      <title>Warhammer – Algos (2026)</title>
+      <link>https://newalbumreleases.net/240020/warhammer-algos-2026/</link>
+      <guid isPermaLink="false">240020</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Warhammer – Algos (2026)]]></description>
     </item>
     <item>
       <title>Christone Kingfish Ingram – Hard Road Extended (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">239927</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Emile Parisien – Floating (2026)]]></description>
-    </item>
-    <item>
-      <title>Mojohand – Mojohand’s Bar And Grill (2026)</title>
-      <link>https://newalbumreleases.net/239926/mojohand-mojohands-bar-and-grill-2026/</link>
-      <guid isPermaLink="false">239926</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Mojohand – Mojohand’s Bar And Grill (2026)]]></description>
-    </item>
-    <item>
-      <title>Wendy Bevan – Alone With The Unknown (2026)</title>
-      <link>https://newalbumreleases.net/239925/wendy-bevan-alone-with-the-unknown-2026/</link>
-      <guid isPermaLink="false">239925</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Wendy Bevan – Alone With The Unknown (2026)]]></description>
     </item>
   </channel>
 </rss>
