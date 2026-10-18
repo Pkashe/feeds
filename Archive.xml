@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sat, 17 Oct 2026 23:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 02:32:30 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -62,6 +62,27 @@
       <guid isPermaLink="false">240109</guid>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Catie Turner – Blue Alchemy (2026)]]></description>
+    </item>
+    <item>
+      <title>Kanaan – Kanaan (2026)</title>
+      <link>https://newalbumreleases.net/240055/kanaan-kanaan-2026/</link>
+      <guid isPermaLink="false">240055</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Kanaan – Kanaan (2026)]]></description>
+    </item>
+    <item>
+      <title>TVOD – The Farm (2026)</title>
+      <link>https://newalbumreleases.net/240046/tvod-the-farm-2026/</link>
+      <guid isPermaLink="false">240046</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: TVOD – The Farm (2026)]]></description>
+    </item>
+    <item>
+      <title>Stray View – Self Inflicted (2026)</title>
+      <link>https://newalbumreleases.net/240022/stray-view-self-inflicted-2026/</link>
+      <guid isPermaLink="false">240022</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Stray View – Self Inflicted (2026)]]></description>
     </item>
     <item>
       <title>Endless Wellness – Domino Days (2026)</title>
@@ -195,27 +216,6 @@
       <guid isPermaLink="false">239930</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Sherman Holmes – One Step Ahead of the Blues (2026)]]></description>
-    </item>
-    <item>
-      <title>Good Habits – Better For Now (2026)</title>
-      <link>https://newalbumreleases.net/239929/good-habits-better-for-now-2026/</link>
-      <guid isPermaLink="false">239929</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Good Habits – Better For Now (2026)]]></description>
-    </item>
-    <item>
-      <title>Tinfed – Designated Rivals Redux (2026)</title>
-      <link>https://newalbumreleases.net/239928/tinfed-designated-rivals-redux-2026/</link>
-      <guid isPermaLink="false">239928</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Tinfed – Designated Rivals Redux (2026)]]></description>
-    </item>
-    <item>
-      <title>Emile Parisien – Floating (2026)</title>
-      <link>https://newalbumreleases.net/239927/emile-parisien-floating-2026/</link>
-      <guid isPermaLink="false">239927</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Emile Parisien – Floating (2026)]]></description>
     </item>
   </channel>
 </rss>
