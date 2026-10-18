@@ -4,9 +4,16 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Sun, 18 Oct 2026 19:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 22:09:22 +0000</lastBuildDate>
     <language>en-us</language>
 
+    <item>
+      <title>Mario Biondi – Two Entities (2026)</title>
+      <link>https://newalbumreleases.net/240140/mario-biondi-two-entities-2026/</link>
+      <guid isPermaLink="false">240140</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Mario Biondi – Two Entities (2026)]]></description>
+    </item>
     <item>
       <title>Mind.in.a.box – Retaliation (2026)</title>
       <link>https://newalbumreleases.net/240139/mind-in-a-box-retaliation-2026/</link>
@@ -55,6 +62,13 @@
       <guid isPermaLink="false">240133</guid>
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: The Three Degrees – Heartbroken Memories (2026)]]></description>
+    </item>
+    <item>
+      <title>Helloween – The Keepers On Stage [Live Minneapolis 1987 And Donington 1988] (2026)</title>
+      <link>https://newalbumreleases.net/240132/helloween-the-keepers-on-stage-live-minneapolis-1987-and-donington-1988-2026/</link>
+      <guid isPermaLink="false">240132</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Helloween – The Keepers On Stage [Live Minneapolis 1987 And Donington 1988] (2026)]]></description>
     </item>
     <item>
       <title>Ja Rule – The Rules Of Love Pain Is Love (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">240046</guid>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: TVOD – The Farm (2026)]]></description>
-    </item>
-    <item>
-      <title>Stray View – Self Inflicted (2026)</title>
-      <link>https://newalbumreleases.net/240022/stray-view-self-inflicted-2026/</link>
-      <guid isPermaLink="false">240022</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Stray View – Self Inflicted (2026)]]></description>
-    </item>
-    <item>
-      <title>Endless Wellness – Domino Days (2026)</title>
-      <link>https://newalbumreleases.net/240021/endless-wellness-domino-days-2026/</link>
-      <guid isPermaLink="false">240021</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Endless Wellness – Domino Days (2026)]]></description>
     </item>
   </channel>
 </rss>
