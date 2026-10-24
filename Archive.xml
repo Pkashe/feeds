@@ -4,7 +4,7 @@
     <title>New Album Releases - Archive</title>
     <link>https://newalbumreleases.net/category/cat/</link>
     <description>Latest album posts from New Album Releases</description>
-    <lastBuildDate>Fri, 23 Oct 2026 22:49:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 01:18:29 +0000</lastBuildDate>
     <language>en-us</language>
 
     <item>
@@ -76,6 +76,20 @@
       <guid isPermaLink="false">240402</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Turbo – Listen… Shut Up! (2026)]]></description>
+    </item>
+    <item>
+      <title>Colepitz – The Time Between (2026)</title>
+      <link>https://newalbumreleases.net/240391/colepitz-the-time-between-2026/</link>
+      <guid isPermaLink="false">240391</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Colepitz – The Time Between (2026)]]></description>
+    </item>
+    <item>
+      <title>Rope – Never Again (2026)</title>
+      <link>https://newalbumreleases.net/240390/rope-never-again-2026/</link>
+      <guid isPermaLink="false">240390</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[New Album Releases archive post: Rope – Never Again (2026)]]></description>
     </item>
     <item>
       <title>Boss Keloid – Float And Aperture (2026)</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="false">240275</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[New Album Releases archive post: Yann Novak – Discontinuity (2026)]]></description>
-    </item>
-    <item>
-      <title>Boy Golden – Best Of Our Possible Lives (2026)</title>
-      <link>https://newalbumreleases.net/240274/boy-golden-best-of-our-possible-lives-2026-2/</link>
-      <guid isPermaLink="false">240274</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Boy Golden – Best Of Our Possible Lives (2026)]]></description>
-    </item>
-    <item>
-      <title>Robert Johnson &amp; Punchdrunks – Pussy Was Wired For Sound (2026)</title>
-      <link>https://newalbumreleases.net/240273/robert-johnson-punchdrunks-pussy-was-wired-for-sound-2026/</link>
-      <guid isPermaLink="false">240273</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[New Album Releases archive post: Robert Johnson & Punchdrunks – Pussy Was Wired For Sound (2026)]]></description>
     </item>
   </channel>
 </rss>
